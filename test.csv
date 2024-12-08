@@ -1,0 +1,2289 @@
+id,s,Body,REASON,WHY,Unnamed: 5,Labels
+1,ham,"New iBooks and PowerBooksURL: http://www.askbjoernhansen.com/archives/2002/09/07.html
+Date: 2002-09-07T06:10:55-08:00
+
+I am thinking about getting a new Mac. Not any good reason for it though. I'll 
+try to wait it out for one of the new iBooks rumored for next spring. No new 
+PowerBook next month if new models come out. No. I said no! Stop thinking about 
+it. Don't do it. I said don't do it. No. No, it's a really bad idea. Don't. 
+Geez. Stop it! No, not even if it has an even cooler monitor. Or a...",normal,,0,", ham, normal"
+2,ham,"Ever tried to get MH to *not* have a 'pseq' sequence?  I suspect everybody's
+looking at a big box that has unseen and pseq in it.  Might want to add
+'pseq' to the 'hide by default' list....
+-- 
+				Valdis Kletnieks
+				Computer Systems Senior Engineer
+				Virginia Tech",normal,,,", ham, normal"
+3,ham,"
+I'm also not familiar with the implementation, but I would prefer that
+automatically installed packages stay automatically installed, so that
+they have the possibility of being automatically removed when no longer
+needed.
+
+I use ""hold"" liberally to weather Sid storms.  There are two cases I
+see crop up: one, aptitude suggests removing packages without an
+obvious replacement.  Two, aptitude marks things as broken that have
+been working just fine.  In either case, I start slamming the ""="" key
+until packages will no longer be removed, and nothing is marked
+broken.  This works 99.99% of the time.  At some later period when I
+suspect the storm has passed, I test the waters by unholding the
+packages and gauging aptitude's reaction.
+
+I also use ""hold"" when apt-listbugs + some investigation leads me to
+believe I'm better off with the current version.  (There's some reason
+I don't use forbid-version, but I don't recall.  Maybe it wasn't
+persisting between sessions?  But that would have been years ago.)
+
+All of which is to say, just because I've marked a package on hold
+doesn't mean that I want it on my system forever.  But if that's the
+only way to deal with the problem, then I can certainly manage.  My
+system is ancient, and there are already plenty of package on it whose
+presence I can't easily explained.  What's the harm in a few more?
+
+If this is a misuse of ""hold"" and there's a better way, though, I'm
+all ears.  Rereading, it seems like ""forbid-version"" would be the
+right call for most of what I'm doing, assuming it does persist
+between aptitude sessions.
+
+-- 
+monique
+
+",normal,,,", ham, normal"
+4,ham,"
+When out-of-the-box parsing & transform of XML in java is 25x slower than
+C++ on the same hardware then it does matter.",normal,,,", ham, normal"
+5,ham,"Curried radiation burnsURL: http://boingboing.net/#85537496
+Date: Not supplied
+
+Curcumin, the chemical that makes curry yellow, turns out to be a good compound 
+for treating radiation burns resulting from cancer therapy. Link[1] Discuss[2] 
+(_Thanks, Cheryl!_)
+
+[1] http://www.alertnet.org/thenews/newsdesk/N07347915
+[2] http://www.quicktopic.com/boing/H/THKNJnrnHdDd",normal,,,", ham, normal"
+6,ham,"[MLB-WIRELESS] FW: Cisco Wireless LAN SolutionsFrom nobody Sun Sep 18 20:45:31 2016
+Content-Type: text/plain;
+	charset=""iso-8859-1""
+Content-Transfer-Encoding: 7bit
+
+Cisco SystemsFYI.
+
+ (I'm not pro or anti Cisco, and I don't sell it. Just passing along info so
+that someone might find it of use)
+
+Regards,
+Gaz
+
+
+
+
+Please feel free to forward this email. Please forward it in its entirety.
+
+
+
+
+
+
+
+
+
+      Cisco Aironet 1200 Series - Absolute freedom, maximum security.
+
+      Dear Mr. Winder
+
+           See how you can have the highest level of security and mobility
+with our free CD-ROM on the Cisco Aironet 1200 Series of Wireless LAN (WLAN)
+solutions.
+
+      The modular, dual-band design supports either 2.4 GHz or 5 GHz
+wireless frequencies, or both simultaneously.  It integrates easily with
+existing wired networks and is hardware and software upgradeable.  This
+preserves existing investments, so you will be able to advance into the
+future with IEEE 802.11a and 802.11g standards without having to replace
+your entire WLAN infrastructure.
+
+      Rest assured, the Cisco Aironet 1200 Series is as secure as a wired
+network.  Corporate data is protected by the award-winning Cisco Wireless
+Security Suite.  It's scalable, centrally managed 802.1x architecture
+provides both secure authentication as well as data transmission through
+per-user, per session generation and distribution of 128-bit encryption
+keys.
+
+      Click here for your free CD-ROM or to request a Cisco representative
+contact you.
+
+      Cisco Aironet 1200 Series WLAN solution - Maximum security, absolute
+freedom.
+
+      Yours Sincerely,
+
+      Tony Wright
+      Regional Manager - Marketing
+
+
+
+
+
+
+
+            Unsubscribe
+            If you do not wish to receive further emails about the Cisco
+Aironet 1200 Series, please click here to unsubscribe.
+
+
+      All contents are Copyright (c) 1992--2002 Cisco Systems, Inc. All
+rights reserved.
+
+
+",normal,,,", ham, normal"
+7,ham,"the modem is communicating with the system over a driver. you have to find
+out how to setup the modem on system level. This has to be done prior to
+get it used by an application like a dialup program as wvdial.
+
+I setup last year two huawei modems and failed to setup one. As people
+posted the product/vendor ids are crucial for the system to load the
+appropriate setup and as far as I remember not all huawei modems are
+supported under linux by the fact that some chipsets are not supported.
+
+good luck
+
+regards",normal,,,", ham, normal"
+8,ham,"That math stuff's, a, um, bitch, i'nit?
+
+;-)
+
+Cheers,
+RAH
+[Who could care less who boinks whom, or for how much, though watching the
+Righteous Anger(tm) around here this morning *has* been amusing...]
+-- 
+-----------------
+R. A. Hettinga 
+The Internet Bearer Underwriting Corporation 
+44 Farquhar Street, Boston, MA 02131 USA
+""... however it may deserve respect for its usefulness and antiquity,
+[predicting the end of the world] has not been found agreeable to
+experience."" -- Edward Gibbon, 'Decline and Fall of the Roman Empire'
+",normal,,,", ham, normal"
+9,ham,"Disney's no-good Park-Czar replacedURL: http://boingboing.net/#85506723
+Date: Not supplied
+
+Disney has named a new president of Walt Disney Parks, replacing Paul Pressler, 
+the exec who did his damnedest to ruin Disneyland, slashing spending (at the 
+expense of safety and employee satisfaction), building the craptastical 
+California Adventure, reducing the number of SKUs available for sale in the 
+Park stores, and so on. The new president, James Rasulo, used to be head of 
+Euro Disney. Link[1] Discuss[2]
+
+[1] http://reuters.com/news_article.jhtml?type=search&StoryID;=1510778
+[2] http://www.quicktopic.com/boing/H/rw7cDXT3W44C",normal,,,", ham, normal"
+10,ham,"
+Lately, a fairly large % of the spam I've been getting has been coming from
+spam systems that forge my own address as the ""from"" address... Those spam
+messages would get through any whitelist I set up (especially since I email
+stuff to myself all the time).  If whitelists become more popular, I
+imagine spammers will resort to doing that for the majority of their spams,
+making whitelists less helpful.
+
+Plus, I'm still not sure how I feel about whitelists.  I don't think I'm so
+special that people should need to fill out a special form just to send me
+email.  I could see certain friends of mine getting fairly annoyed
+(especially those with multiple email addresses...).
+
+-Mike
+http://xent.com/mailman/listinfo/fork",normal,,,", ham, normal"
+11,ham,"Monster molecule techniques win Chemistry NobelURL: http://www.newsisfree.com/click/-3,8701110,1440/
+Date: Not supplied
+
+Three researchers are honoured for pioneering ways of identifying large 
+biological molecules such as proteins and DNA
+",normal,,,", ham, normal"
+12,ham,"GodTube is back!Sorry, 
+
+wrong mailing-list :)
+
+
+
+GodTube Update  writes:
+> GodTube is Back!
+
+...
+
+
+-- 
+To UNSUBSCRIBE, email to debian-laptop-REQUEST@lists.debian.org
+with a subject of ""unsubscribe"". Trouble? Contact listmaster@lists.debian.org
+Archive: http://lists.debian.org/87r5m0sz2b.fsf@gmx.de
+",normal,,,", ham, normal"
+13,ham,"Asterisk in Debian/Lenny without Junghanns.net support?Hi!
+
+Asterisk in Debian/Lenny claims to be bristuffed, not? At least the
+the Debian patch tracking system shows the bristuff-patches:
+
+[1] http://bit.ly/bRRHe7
+
+We have a QuadBRI-Card and recently needed support from Junghanns.net
+but they refused telling us there is no bristuff installed because of
+the show version output:
+
+*CLI> show version
+Asterisk 1.4.21.2~dfsg-3+lenny1 built by pbuilder @ grnetbox on a  
+x86_64 running Linux on 2009-12-14 19:04:56 UTC
+
+Why was the ""bristuffed"" line removed? Debian/Etch did have that
+postfix.
+
+After telling them Debian/Lenny IS bristuffed they said this
+""installation method"" is not supported. Huh?!
+Does anyone has a comment on this?
+
+Greetings,
+ - Darsha
+
+
+P.s.: X-Posted to debian-user and asterisk-user list.
+
+
+-- 
+To UNSUBSCRIBE, email to debian-user-REQUEST@lists.debian.org 
+with a subject of ""unsubscribe"". Trouble? Contact listmaster@lists.debian.org
+Archive: http://lists.debian.org/4BC20ABE.1020103@syn-net.org
+",normal,,,", ham, normal"
+14,ham,"Your Daily Dilbert 07/19/2002From nobody Sun Sep 18 20:45:32 2016
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+E-mail error
+
+You're subscribed to the HTML version of the Daily Dilbert,
+which shows the comic strip as a graphic, but your mail system
+either can't support HTML or is set up to remove HTML content. For
+more information, contact your Internet service provider or mail
+system administrator.
+
+To change to a plain text subscription, modify your account
+preferences at 
+http://www.dilbert.com/comics/dilbert/daily_dilbert/html/login.html
+
+The plain text option appears toward the bottom of the modification
+page.
+
+",normal,,,", ham, normal"
+15,ham,"NoneWhat do you guys think about Apple?
+
+
+
+-- 
+To UNSUBSCRIBE, email to debian-user-REQUEST@lists.debian.org 
+with a subject of ""unsubscribe"". Trouble? Contact listmaster@lists.debian.org
+Archive: http://lists.debian.org/199926.44903.qm@web36508.mail.mud.yahoo.com
+
+",normal,,,", ham, normal"
+16,ham,"[ILUG] semaphores on linux RH7.3Hi All,
+
+I have a question which is a bit tricky and was
+wondering of anyone has come across this problem
+before or could point me in the right direction.
+
+I am involved in porting a SCO unix application to
+Linux, and we have encountered a problem with the way
+semaphores  are being handled. The application uses
+mulitple processes to run application code with the
+main process known as the bsh which controls all i/o
+be it screen, or file i/o, syncronisation is handled
+via semaphores.
+
+In certain circumstances the main process and the
+application child process seem to lock up both waiting
+for the syncronisation semaphores to change state, I
+have attached ddd to the processes and it seems that
+the semaphore code is doing the correct things for
+syncronisation but the processes stay stuck in the
+semop() system call.
+
+I have also noticed that if I introduce a slight delay
+between changing semaphore states the problem goes
+away, but this causes our entire application to run
+really sloooww !! lol
+
+Is there anything weird or different with the standard
+implemenation of semaphores on modern linux that could
+cause a semop() to fail to pick up the change in state
+
+in a semaphore immediately?
+
+Setting sem_flg = IPC_NOWAIT and checking for errno ==
+EAGAIN and recalling semop() if the semop() call fails
+(-1) also fixes the problem but again system
+performance goes down the toilet.
+
+both the parent controlling process run as the same
+uid, and the parent creates the semaphores with
+permissions 0666.
+
+Any pointers would be appreciated!
+
+Rgds,
+
+Colin Nevin 
+
+__________________________________________________
+Do You Yahoo!?
+Everything you'll ever need on one web page
+from News and Sport to Email and Music Charts
+http://uk.my.yahoo.com
+
+-- 
+Irish Linux Users' Group: ilug@linux.ie
+http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
+List maintainer: listmaster@linux.ie
+
+",normal,,,", ham, normal"
+17,ham,"
+I'm using KDE and it's fully up-to-date with no broken packages, your 
+problem seems to be that you are holding obsolete/orphan packages, you 
+may want to use Synaptic to look at your system and do some 
+investigating as to why dependence are not being met.
+-- 
+Jimmy Johnson
+
+Bakersfield, CA. U.S.A.
+Registered Linux User #380263
+K.I.S.S. (Keep it simple stupid)
+
+",normal,,,", ham, normal"
+18,ham,"Thanks for the script.  It also appears that the standard logrotate tools
+included with many systems (or at least RedHat systems) will support
+wildcards when rotating files so something like
+/home/*/.razor/razor-agent.log can be specified...
+
+-Dave",normal,,,", ham, normal"
+19,ham,Reverse is cheating. That is not mathematics.,normal,,,", ham, normal"
+20,ham,How do you plan to manage that,normal,,,", ham, normal"
+21,spam,"Got what it takes 2 take part in the WRC Rally in Oz? U can with Lucozade Energy! Text RALLY LE to 61200 (25p), see packs or lucozade.co.uk/wrc & itcould be u!",irrelevant,advertisement,,"advertisement, spam, irrelevant"
+22,spam,"Hi, the SEXYCHAT girls are waiting for you to text them. Text now for a great night chatting. send STOP to stop this service",indecent,sexual content,,"sexual content, spam, indecent"
+23,ham,hi baby im sat on the bloody bus at the mo and i wont be home until about 7:30 wanna do somethin later? call me later ortxt back jess xx,normal,,,", ham, normal"
+24,spam,"Welcome to Select, an O2 service with added benefits. You can now call our specially trained advisors FREE from your mobile by dialling 402.",scam,pshing,,"pshing, spam, scam"
+25,spam,"
+  Do you owe money? Is it getting troublesome keeping track
+of all those bills and whom you owe how much and when? Would
+it not be easier if you could just make 1 monthly payment
+instead of several? We can help!
+
+  If your debts are $4,000 US or more and you are a United
+States citizen, you can consolidate your debt into just one
+easy payment! You do not have to own a home, nor do you need
+to take out a loan. Credit checks are not required!
+
+  To receive more information regarding our services, please
+fill out the form below and return it to us, or provide the
+necessary information in your response. There are absolutely
+no obligations. All the fields below are required for your
+application to be processed.
+
+**********
+
+Full Name : 
+Address : 
+City : 
+State : 
+Zip Code : 
+Home Phone : 
+Work Phone : 
+Best Time to Call : 
+E-Mail Address : 
+Estimated Debt Size : 
+
+**********
+
+Please allow upto ten business days for application
+processing.
+
+Thank You
+
+
+Note: If this e-mail arrived to you by error, or you wish
+to never receive such advertisements from our company,
+please reply to this e-mail with the word REMOVE in the
+e-mail subject line. We apologize for any inconveniences",scam,pshing,,"pshing, spam, scam"
+26,spam,"
+Greetings,
+Like most of us I have been burned in several Programs in the past. However, 
+I really, truly, believe that this program, "" The Last Program"" is going to 
+help me and many others achieve their lifelong financial dreams.
+Please click on the link to my web page and take just a few minutes to read 
+over the material inside. It is a really fascinating program and I am very 
+excited about its potential and I hope you will be to after you read about 
+it.
+
+CLICK HERE FOR DETAILS http://lastprogram.members.easyspace.com
+
+If you have any questions or concerns please feel free to call me at 702 604 
+6163
+Warmest regards
+Rick
+
+Do not reply to this message - 
+To be removed from future mailings:
+mailto:grantuit2001@yahoo.com?Subject=Remove
+
+
+",scam,pshing,,"pshing, spam, scam"
+27,spam,"
+
+
+I am a TV producer for one of the three major networks and
+I am working on a new primetime special. We're looking for a 
+special story and thought you might be able to assist.
+ 
+THIS IS NOT A SALES PITCH FOR ANYTHING! 
+I AM REALLY LOOKING FOR A GREAT STORY!
+
+-----------------
+PLEASE READ THIS! 
+-----------------
+
+Here's the type of story we are seeking;
+
+Are you interested in finding a long lost love from 
+your past? 
+Your first love? 
+The one that got away?
+ 
+If you are, WE MAY BE ABLE TO MAKE YOUR DREAM COME TRUE!
+(if you are not, PLEASE send this to your single friends)
+ 
+To be considered for this rare national TV opportunity, 
+you MUST;
+1. Be single and available
+2. Have a sincere interest to find a former love
+3. Be willing to share your story on NATIONAL TV
+4. Be able to travel to Los Angeles (We pay for everything)
+ 
+If this is YOU...then here's what you need to do next-
+1. Reply to this email.
+2. Tell us WHO you are looking for. 
+3. Tell us WHY you want to find him/her. (Let your feelings out)
+4. Tell us WHERE they were last time you saw them (specifics)
+5. Tell us how to reach YOU BY PHONE- HOME, WORK, CELL, email
+ 
+If we cannot reach you, we will have to move on without you!
+ 
+We only need ONE story, so if you want it to be you...
+REPLY IMMEDIATELY!
+ 
+We look forward to getting your reply...SOON!
+Good luck!
+ 
+ 
+p.s. REMEMBER TO GIVE US A WAY TO REACH YOU BY PHONE TODAY!
+
+",irrelevant,advertisement,,"advertisement, spam, irrelevant"
+28,spam,"
+Have tax problems? Do you owe the IRS money? If your debt is
+$10,000 US or more, we can help! Our licensed agents can help
+you with both past and present tax debt. We have direct contacts
+with the IRS, so once your application is processed we can help
+you immediately without further delay.
+
+Also, as our client we can offer you other services and help with
+other problems such as:
+
+- Tax Preparation
+- Audits
+- Seizures
+- Bank Levies
+- Asset Protection
+- Audit Reconsideration
+- Trust Fund Penalty Defense
+- Penalty Appeals
+- Penalty Abatement
+- Wage Garnishments
+.. and more!
+
+To receive FREE information on tax help, please fill out the
+form below and return it to us. There are no obligations, and
+supplied information is kept strictly confidential. Please note
+that this offer only applies to US citizens. Application
+processing may take up to 10 business days.
+
+**********
+
+Full Name: 
+State: 
+Phone Number: 
+Time to Call: 
+Estimated Tax Debt Size: 
+
+**********
+
+Thank you for your time.
+
+
+
+Note: If you wish to receive no further advertisements regarding
+this matter or any other, please reply to this e-mail with the
+word REMOVE in the subject.",scam,pshing,,"pshing, spam, scam"
+29,spam,"
+Hi !  Your name was submitted as someone who might be interested in making money at home.  If this is in error, please excuse this email and delete it. This is a one time mailing. ""DO NOT REPLY UNLESS YOU WANT MORE EMAILS""!!!
+
+If you ARE interested in Making Money At Home, send an email to
+giftman@post.com and put ""Request Info"" in the Subj. line.
+
+Thanks and have a nice day.    
+
+-------------------------------------------------------------------------------------------
+Under Bill s.1618 TITLE III passed by the 105th U.S. Congress this letter is not considered ""spam"" as long as we include:
+1)contact information and,
+2)the way to be removed from future mailings (see below).
+
+To Remove Yourself From This List: 
+Please reply with the email address that you would like removed and the word REMOVE in the subject heading.
+",indecent,illegal activities,,"illegal activities, spam, indecent"
+30,spam,"
+Creamfields
+Saturday 24th August 2002 2pm-6am (licence granted)
+Old Liverpool Airfield
+Speke Road, Liverpool
+
+Creamfields. It's What August Bank Holidays Are for.  
+
+Creamfields is the most intense, chilled out, full on, laid back experience you can cram into one day.  Creamfields is the only award-winning dance festival. It's the only festival to feature the best live acts on an outdoor stage, leaving the arenas to the DJs. Creamfields is the best of Cream, Bugged Out!, Global Underground, Subliminal, Passion, Pacha Futura, Frantic, Nukleuz, Bacardi B Bar and Sunday Best. It Just Gets Better.
+
+To help get the party started (right), Ticketmaster have negotiated an exclusive offer of �5.00 off the normal price of tickets making the tickets just �41.00 plus booking fee.
+
+Book here NOW. This offer is only available until 22 June*
+
+http://www.ticketmaster.co.uk/mkt_email/mktemail.asp?id=114
+
+The line-up includes:  
+
+FAITHLESS
+UNDERWORLD
+MIS-TEEQ DJ SHADOW
+KOSHEEN LEMON JELLY STANTON WARRIORS BENT FC KAHUNA
+LAYO AND BUSHWACKA (live) A MAN CALLED ADAM DIRTY VEGAS
+
+PAUL OAKENFOLD, SASHA, DEEP DISH, PETE TONG, DAVE CLARKE, TIMO MAAS, 
+DJ TIESTO, ERICK MORILLO, SEB FONTAINE, XPRESS 2, JUDGE JULES, YOUSEF, TALL PAUL, FERGIE, STEVE LAWLER, LOTTIE, NICK WARREN, SANDER KLEINENBERG, FERRY CORSTEN, ARMIN VAN BUUREN, JOHN KELLY, SANDRA COLLINS, JUSTIN ROBERTSON, UMEK, JON CARTER, JAMES ZABIELA, JFK, GUY ORNADEL, SCOTT BOND, CORVIN DALEK, ROB DA BANK, PAUL BLEASDALE, JAN CARBON, ANDY CARROLL, RICHARD SCANTY
+And many, many more
+
+
+*The offer is strictly subject to availability and does not apply to tickets already purchased.
+
+To stay up to date with other new events on sale, sign up for Ticketmaster's weekly Ticket Alert email newsletter. http://www.ticketmaster.co.uk/ticket_alert/
+
+Please do not reply to this email, as you will not get a response. To remove yourself from this mailing list, please email here: mailto:unsubscribe@ticketmaster.co.uk and write ""Unsubscribe"" in the subject line. For all other enquiries, visit our help page: http://www.ticketmaster.co.uk/help/
+",scam,pshing,,"pshing, spam, scam"
+31,spam,"
+.BIZ and .INFO Available Here
+
+Dear sir/madam,
+
+The Internet Corporation for Assigned Names and Numbers [ICANN] has recently approved the addition of new extensions to the internet domain space. The new domain names will offer much-needed competition in the domain market. Consumers will be able to choose from the following new extensions: .biz, .info, and .name
+
+The new top-level domain names are now available to the general public at the following address: http://www.interniconline.com. Priced at only $24.95, the best names are expected to be snapped up quickly so don't hesitate.
+
+Sincerely,
+
+Internic Online
+http://www.interniconline.com
+
+1202FFdi8-041VvDy1060QrFx3-446RpPn3326ChFp2-625zbFt8017TPMl55
+",irrelevant,advertisement,,"advertisement, spam, irrelevant"
+32,spam,"
+Please visit http://ukprankcalls.com to play a hilarious joke on your mates!
+",indecent,illegal activities,,"illegal activities, spam, indecent"
+33,spam,"Fire Your Boss...
+Say ""Goodbye"" to the 9-5!
+
+Tired of working to make someone else wealthy?
+FREE tape teaches you how to make YOU wealthy!
+
+Click here and send your name and mailing address for a free copy
+
+To unsubscribe click here
+",scam,pshing,,"pshing, spam, scam"
+34,spam,"
+PROMOTE YOUR PRODUCT OR SERVICE TO MILLIONS TODAY!
+
+E-MAIL MARKETING
+- Complete collection of e-mail software & unlimited addresses, only $199.
+- Bulk e-mail will make you money so fast, your head will spin!
+
+FAX MARKETING SYSTEM
+- 4 Million fax numbers & fax broadcasting software, only $249.
+- People are 4 X more likely to read faxes than mail!
+
+1 MILLION AMERICAN BUSINESS LEADS ON CD
+- Contains company name, address, phone, fax, SIC, # of employees & revenue
+- Unlimited downloads!
+
+
+Visit our Web Site: http://81.9.8.7/index.htm
+
+or call us at 618-288-6661
+
+ 
+
+ 
+
+ 
+
+ 
+
+to be taken off of our list respond here mailto:l1l12345a1@btamail.net.cn",irrelevant,advertisement,,"advertisement, spam, irrelevant"
+35,spam,"Yeniden finansman mı istiyorsunuz?
+
+Bu kısa formu doldurun ve ipotek
+şirketlerinin sizin işiniz için hemen rekabet etmesini sağlayın.
+
+Size, mevcut, mutlak, EN İYİ yeniden finansman oranları sunulacak!
+
+Krediniz önemli değil, geçmiş kredi sorunlarınız hakkında endişelenmeyin bile, HERKESİ yeniden finanse edebiliriz!
+
+Uzmanlığımızı Sizin İçin Çalıştıralım!
+
+http://save.ac2002.net",scam,pshing,,"pshing, spam, scam"
+36,spam,"Save up to 75% on your Term Life Insurance!
+
+Compare rates from top insurance companies around the country.
+
+In our life and times, it's important to plan for your family's future, while being comfortable financially. Choose the right Life Insurance policy today.
+
+Click the link below to compare the lowest rates and save up to 75%
+
+COMPARE YOUR COVERAGE
+
+You'll be able to compare rates and get a free application in less than a minute!
+
+Get your FREE instant quotes...
+Compare the lowest prices, then...
+Select a company and Apply Online.
+
+GET A FREE QUOTE NOW!
+
+You can't predict the future, but you can always prepare for it.
+",irrelevant,advertisement,,"advertisement, spam, irrelevant"
+37,spam,"Dear Sirs,
+We know your esteemed company in beach towels from Internet, and pleased to introduce us as a leading producer of high quality 100% cotton velour printed towels in China, we sincerely hope to establish a long-term business relationship with your esteemed company in this field.
+  
+Our major items are 100% cotton full printed velour towels of the following sizes and weights with a annual production capacity of one million dozens:
+Disney Standard:
+30X60 inches, weight  305grams/SM, 350gram/PC  
+40X70 inches, weight  305grams/SM, 550gram/PC  
+Please refer to our website http://www.jacquard-towel.com/index.html for more details ie patterns about our products.
+Once you are interested in our products, we will give you a more favorable price.
+Looking forward to hearing from you soon 
+Thanks and best regards,
+Margaret/Sales Manager
+Henan Ziyang Textiles
+http://www.jacquard-towel.com
+",irrelevant,advertisement,,"advertisement, spam, irrelevant"
+38,spam,"Are you looking for a job?
+Are you planning for a career change?
+Does your current job pay you less than the salary you deserve?
+Do you want information about who is currently hiring and their rates?
+
+If you answered ""yes"" to any of the above questions, then visiting JobGalleries.com might help you.
+
+JobGalleries.com allows you to search for jobs, save your resume and cover letters, apply online, and create a job search agent. And more, JobGalleries.com services to job seekers are 100% FREE.
+
+JobGalleries.com is definitely one of the TOP career sites on the internet.
+
+Visit JobGalleries.com and access more than 100,000 U.S. jobs.
+
+For Employer and Recruiter:
+
+Avail a 75% discount at JobGalleries.com services for 1 year by using this offer code ""ADSINI531"" or simply by clicking this link - JobGalleries.com.
+
+To unsubscribe, click here or simply reply to this email and type ""REMOVE"" in the subject line.",irrelevant,advertisement,,"advertisement, spam, irrelevant"
+39,spam,SMS SERVICES For your inclusive text credits pls gotto www.comuk.net login 3qxj9 unsubscribe with STOP no extra charge help 08702840625 comuk.220cm2 9AE,scam,pshing,,"pshing, spam, scam"
+40,spam,"Viagra
+Viagra çevrim içi olarak temin edilebilir ve ertesi gün kargolanır. ABD lisanslı doktorlarımız tıbbi geçmişinizi (3 dakikadan kısa sürede doldurulabilen çevrim içi form) değerlendirecek ve eğer Viagra'ya uygunsanız siparişiniz işlenip ertesi gün kargolanacaktır. ABD'de milyonlarca erkek Viagra kullanmaktadır. Eğer ereksiyonunuzun daha iyi olabileceğini düşünüyorsanız, Viagra'yı deneyin. Tüm siparişler FedEx ile gizli olarak gönderilir.
+ORDER NOW
+
+Phentermine
+Obezite için kilo kaybı ilacı. Hiçbir şey yapmadan daha fazla yağ yakmanızı sağlar, sinir sisteminizi uyarır!
+ORDER NOW
+
+Meridia
+Obezitenin tıbbi yönetimi, kilo kaybı ve kaybedilen kilonun korunması için FDA onaylı bir reçeteli oral ilaçtır.
+ORDER NOW
+
+Xenical
+Vücudunuzun yediğiniz yağı emmesini engeller. Artık yorucu egzersizlere gerek yok!
+ORDER NOW
+
+Propecia
+Erkek tipi saç dökülmesini etkili bir şekilde tedavi eden ilk ilaç. Finasterid içerir.
+ORDER NOW",indecent,sexual content,,"sexual content, spam, indecent"
+41,spam,"Learn How To Make $8,000 within 7-14 days!
+
+Get out of Debt in 60 days!
+Please listen to the 15 minute overview calls 
+at: 512-225-3201 pin 439461#  
+3, 5, 7 & 9 PM EST Sun-Fri
+
+For a detailed info, please reply and put
+""Send URL"" in the subject line and send it
+to the address below:
+
+mailto:tim1@btamail.net.cn?subject=SEND_URL
+
+Warmest Regards!
+Serious inquiries only..Product purchase required
+
+
+PS: Please put Remove in subject box to get out
+of this list.  Thanks.
+
+
+2942fRJW9-727mXIa0085fmwt1-753wssq3406iZsN1-416l44",scam,pshing,,"pshing, spam, scam"
+42,spam,"Exclusive Interest Rates for Homeowners
+
+Mortgage interest rates are at their lowest point in 40 years! Our extensive network of lenders offers hundreds of loan programs tailored to fit your current needs.
+
+Available loan options include:
+
+Refinance
+Second Mortgage
+Debt Consolidation
+Home Improvement
+Purchase
+This service is 100% free and comes with no obligation.
+
+Click here to fill out a quick form, and your request will be sent to our network of mortgage specialists.",irrelevant,advertisement,,"advertisement, spam, irrelevant"
+43,spam,"
+On January 1st 2002, the European countries began
+using the new Euro.  Never before have so
+many countries with such powerful economies united
+to use a single currency.  Get your piece of history
+now!  We would like to send you a FREE Euro
+and a FREE report on world currency.  Just visit
+our site to request your Euro and Euro report:
+
+http://www.information-depot.com/EuroExchange/
+
+In addition to our currency report, you can receive
+our FREE INVESTMENT PACKAGE:
+
+*  Learn how $10,000 in options will leverage $1,000,000 in
+Euro Currency. This means even a small movement in the market
+has huge profit potential.
+
+If you are over age 18 and have some risk capital, it's
+important that you find out how the Euro will
+change the economic world and how you can profit!
+
+CLICK NOW! http://www.information-depot.com/EuroExchange/
+
+$10,000 minimum investment
+
+Please carefully evaluate your financial position before
+trading.  Only risk capital should be used.
+
+http://www.information-depot.com/takemeoff/ To OptOut.
+",scam,pshing,,"pshing, spam, scam"
+44,spam,"
+We will help you get the mortgage loan you want! 
+
+Only takes 2 minutes to fill out our form. 
+http://xnet.123alias.com/index.php
+
+Whether a new home loan is what you seek or to refinance your current home =
+loan
+at a lower interest rate and payment, we can help!
+
+Mortgage rates haven't been this low in the last 12 months, take action now!
+Refinance your home with us and include all of those pesky credit card bills =
+or
+use the extra cash for that pool you've always wanted... 
+
+Where others says NO, we say YES!!!
+Even if you have been turned down elsewhere, we can help! 
+
+Easy terms! Our mortgage referral service combines the
+highest quality loans with most economical rates and the easiest =
+qualification!
+
+Click Here to fill out our form. 
+http://xnet.123alias.com/index.php
+
+ ",scam,pshing,,"pshing, spam, scam"
+45,spam,"Norton SystemWorks 2002 Software Suite - Professional Edition
+
+6 Feature-Packed Utilities, 1 Great Price
+A $300.00+ Combined Retail Value for Only $29.99!
+
+Protect your computer and your valuable information!
+Don't allow yourself to fall prey to destructive viruses!
+
+Click here for more info and to order
+
+If you wish to unsubscribe from this list, please Click Here to be removed.
+",irrelevant,advertisement,,"advertisement, spam, irrelevant"
+46,ham,No..he joined today itself.,normal,,,", ham, normal"
+47,ham,Okay same with me. Well thanks for the clarification,normal,,,", ham, normal"
+48,ham,I'll talk to the others and probably just come early tomorrow then,normal,,,", ham, normal"
+49,spam,"Spook up your mob with a Halloween collection of a logo & pic message plus a free eerie tone, txt CARD SPOOK to 8007 zed 08701417012150p per logo/pic",scam,pshing,,"pshing, spam, scam"
+50,ham,"Had the money issue weigh me down but thanks to you, I can breathe easier now. I.ll make sure you dont regret it. Thanks.",normal,,,", ham, normal"
+51,ham,Hi. I'm sorry i missed your call. Can you pls call back.,normal,,,", ham, normal"
+52,ham,How are you doing? Hope you've settled in for the new school year. Just wishin you a gr8 day,normal,,,", ham, normal"
+53,ham,On the way to office da..,normal,,,", ham, normal"
+54,ham,In which place do you want da.,normal,,,", ham, normal"
+55,ham,This pain couldn't have come at a worse time.,normal,,,", ham, normal"
+56,spam,FREE for 1st week! No1 Nokia tone 4 ur mob every week just txt NOKIA to 87077 Get txting and tell ur mates. zed POBox 36504 W45WQ norm150p/tone 16+,irrelevant,advertisement,,"advertisement, spam, irrelevant"
+57,ham,No. Its not specialisation. Can work but its slave labor. Will look for it this month sha cos no shakara 4 beggar.,normal,,,", ham, normal"
+58,ham,Is she replying. Has boye changed his phone number,normal,,,", ham, normal"
+59,ham,Its hard to believe things like this. All can say lie but think twice before saying anything to me.,normal,,,", ham, normal"
+60,spam,"Eerie Nokia tones 4u, rply TONE TITLE to 8007 eg TONE DRACULA to 8007 Titles: GHOST, ADDAMSFA, MUNSTERS, EXORCIST, TWILIGHT www.getzed.co.uk POBox36504W45WQ 150p ",scam,pshing,,"pshing, spam, scam"
+61,spam,Sexy Singles are waiting for you! Text your AGE followed by your GENDER as wither M or F E.G.23F. For gay men text your AGE followed by a G. e.g.23G.,indecent,sexual content,,"sexual content, spam, indecent"
+62,ham,Good night my dear.. Sleepwell&amp;Take care,normal,,,", ham, normal"
+63,ham,That is wondarfull song,normal,,,", ham, normal"
+64,spam,"FreeMsg: Claim ur 250 SMS messages-Text OK to 84025 now!Use web2mobile 2 ur mates etc. Join Txt250.com for 1.50p/wk. T&C BOX139, LA32WU. 16 . Remove txtX or stop",scam,pshing,,"pshing, spam, scam"
+65,ham,Have you been practising your curtsey?,normal,,,", ham, normal"
+66,ham,Shall i come to get pickle,normal,,,", ham, normal"
+67,ham,Lol boo I was hoping for a laugh,normal,,,", ham, normal"
+68,ham,No other Valentines huh? The proof is on your fb page. Ugh I'm so glad I really DIDN'T watch your rupaul show you TOOL!,normal,,,", ham, normal"
+69,spam,Free tones Hope you enjoyed your new content. text stop to 61610 to unsubscribe. help:08712400602450p Provided by tones2you.co.uk,indecent,illegal activities,,"illegal activities, spam, indecent"
+70,ham,Hope you are having a great day.,normal,,,", ham, normal"
+71,ham,Did either of you have any idea's? Do you know of anyplaces doing something?,normal,,,", ham, normal"
+72,ham,"
+So some guy failed to reach the source, but instead got spin doctor to
+deny it.  Wot, is he thick enough to expect official confirmation
+that, yes, Blair is going around casting aspersions on Bush???
+
+It's an amusing anecdote, I don't know if it's true or not, but certainly
+nothing here supports the authoritative sounding conclusion ""Status: False"".
+
+
+R
+http://xent.com/mailman/listinfo/fork",normal,,,", ham, normal"
+73,ham,">Spam is *the* tool for dissident news, since the fact that it's unsolicited 
+>means that recipients can't be blamed for being on a mailing list.
+
+That depends on how the list is collected, or
+even on what the senders say about how the list
+is collected. Better to just put it on a website,
+and that way it can be surfed anonymously. AND
+it doesn't clutter my inbox.
+
+
+_________________________________________________________________
+Chat with friends online, try MSN Messenger: http://messenger.msn.com
+
+http://xent.com/mailman/listinfo/fork",normal,,,", ham, normal"
+74,ham,"> It's an amusing anecdote, I don't know if it's true or not,
+> but certainly nothing here supports the authoritative
+> sounding conclusion ""Status: False"".
+
+I actually thought it was pretty funny and quite accurate.  Who cares if the spinmeisters are denying it?
+http://xent.com/mailman/listinfo/fork",normal,,,", ham, normal"
+75,ham,"
+what's the deal with all this latency? it's not like that in other places 
+where I've used dsl. i read some story about it being done that way to 
+allow greater distances to be covered or something like that. however, my 
+knowledge of physics is really only newtonian, and I don't understand how 
+worsening latency could possibly improve the reliability of a 2000 foot 
+long piece of copper. Perhaps it has something to do with stretching the 
+time-space continuum? can someone explain this in words of five syllables 
+or less?
+
+a.",normal,,,", ham, normal"
+76,ham,"
+hehe sorry but if you hit caps lock twice the computer crashes?  theres one
+ive never heard before... have you tryed Dell support yet? I think dell
+computers prefer RedHat... (dell provide some computers pre-loaded with red
+hat) i dont know for sure tho! so get someone elses opnion as well as
+mine...",normal,,,", ham, normal"
+77,ham,"
+I know I heard of this a few years back but Wired and Slashyrot are both
+running stories on 10mbs data transfer via human touch.
+
+Oh I can see it now, The first bicostal file exchange system that will see
+the newsest Offspring tunes distribute by handshake, copulation and
+moshpiting.
+
+http://www.newscientist.com/news/news.jsp?id=ns99992891
+http://www.news.com.au/common/story_page/0,4057,5239758%255E13762,00.html
+http://slashdot.org/articles/02/10/07/0238234.shtml?tid=100
+
+",normal,,,", ham, normal"
+78,ham,"I'm not sure what you mean by ""let's you and him fight"", but it is 
+important to remember that England was in control of Ireland
+for 300 years, and that it was only thanks to the distraction of WW I 
+that the south managed to gain its independence. If you mean
+splitting countries upon arbitrary lines and assigning different groups 
+to opposite sides of the line, it also seems to have not worked in
+India/Pakistan.
+I suppose Canada, which is supposed to be a ""loose confederation"" of 2 
+founding nations (French and English) can be cited as a success. The 
+jury is still out, but so far only a few brief rebellions and 
+referendums and such, still together after 130+ years.
+
+Owen",normal,,,", ham, normal"
+79,ham,"
+I knew it'd be a day for insanity.
+
+so anyway, news.com decided to write up two wonderful articles on the
+DMCA and decided to link to decss.exe, the very verboten code that
+ended up getting 2600 (but none of the other news services that
+originally linked) spanked.
+
+Slashdot, of course, links to them.
+
+So now, I link to slashdot.
+
+http://slashdot.org/articles/02/10/07/1331217.shtml?tid=123
+
+I find this all incredibly funny really.  Congress _and_ the courts
+relaly do need to be considering how laws such as the DMCA are
+applied.  For the most part, these rules are coming down to whose
+friend you happen to be, how nefarious the defendant party is, and how
+asleep the judge is behind the case (asleep/self-interested/bought).
+Its giving me a real cynical view on being a lawyer, thats for sure.
+
+
+
+-- 
+Best regards,
+ bitbitch                          mailto:bitbitch@magnesium.net
+",normal,,,", ham, normal"
+80,ham,"I'm truly stuck on this though.  I don't know whether to frame the
+--]check, burn it, or cash it in.
+
+I framed my 2$ check from mp3.com. Someone bought the Cd I have up there
+some years back and it is my real and actual proof in saying I am a paid
+musician. Of course I never cashed the check so techinaly I never did get
+paid...but thats another matter alltogther.",normal,,,", ham, normal"
+81,ham,"""I don't take no stocks in mathematics, anyway"" --Huckleberry Finn
+",normal,,,", ham, normal"
+82,ham,"
+I call PacBell/SBC every two or three months about a recurring problem 
+we have at my house:
+
+We get a phone bill every month for someone who no longer lives at our 
+house for a phone line which has been disconnected for over three years 
+and the account balance is (drum roll please) $0.00! Sometimes the 
+people I talk to cannot locate the account in their system and tell me 
+that the phone number doesn't exist. Some people are able to locate the 
+account but say that it has been disconnected and there is no way we 
+could get a bill sent to us for that account. Some people can locate the 
+account and verify that the line has been disconnected for three years 
+and that the amount owed is $0.00 and then they say somthing along the 
+lines of ""Huh?"" or ""I'm not sure what's going on... Hold please."" And 
+eventually I have similar conversations with their managers and the 
+account representatives and billing people and their managers and their 
+managers' managers ad naseum.
+
+The outcome of every phone call is that they'll ""look into it"" and fix 
+the problem and I might receive one or two more bills depending on when 
+it's resolved. So I wait a month or two and send the bills back marked 
+""Not at this address, please fsck off."" and then eventually call them 
+back and go through the whole process again. Lately I just explain to 
+the phone jockeys that I know it's not their fault and I'm not mad at 
+them and it's just not their day because I'm about to give them hell. 
+Then I give them the opportunity to have me yell at their boss which 
+they seem all too happy to do.
+
+At least it gives me a positive way to vent my aggressions and it's a 
+lot cheaper than seeing a therapist.
+
+Perplexed,
+Elias
+",normal,,,", ham, normal"
+83,ham,"
+Yes, you read the links.
+
+Sorry, but exposing folly is not only humorous but also instructive.  It
+is only by exposing folly to ridicule that you stop it in the first
+place.
+
+'Brickbats' leans heavily on both, though the item I highlighted was a
+'horror' item not a 'gee that is stupid' item.  For an example of the
+latter, see the city that wanted a woman to pay a ticket for parking in
+an UNmarked no-parking space.",normal,,,", ham, normal"
+84,ham,"
+Yes, you read the links.
+
+Sorry, but exposing folly is not only humorous but also instructive.  It
+is only by exposing folly to ridicule that you stop it in the first
+place.
+
+'Brickbats' leans heavily on both, though the item I highlighted was a
+'horror' item not a 'gee that is stupid' item.  For an example of the
+latter, see the city that wanted a woman to pay a ticket for parking in
+an UNmarked no-parking space.",normal,,,", ham, normal"
+85,ham,"
+When a settler goes postal and kills some Palestinians they are treated
+as a criminal, not celebrated in word and song.
+
+But you knew that.
+
+When a Palestinian sets out, to great rejoicing, to attempt to target
+children with a homicide-bomb, they are careful to dip the shrapnel in
+rat poison.  It helps prevent blood clotting in the victims, you see.
+
+I'm sure all those Jewish homicide-bombers do the same.  Oh wait, there
+aren't any.
+
+If the Palestinians are driven completely out, either by expulsion or
+death, they will have nobody to blame but themselves.  That won't stop
+them or you from pretending otherwise.",normal,,,", ham, normal"
+86,ham,"> Let me ask you....If you were on a rock in the middle of the Atlantic, 
+> mostly in the dark for half the year, wouldn't *you* like a bit of 
+> internet distraction?   They've already done the obvious and fiber-ringed 
+> the island.
+
+BTW did they do the same as they did in Ireland, namely: spend millions
+burying copious miles of dark fibre, then neglect to provide any way of
+actually hooking it up to any ISPs? ;)
+
+--j. (frustrated)",normal,,,", ham, normal"
+87,ham,"> > Could it be? After 20 years without this feature UNIX finally
+> > catches up to
+> > Windows and has I/O that doesnt totally suck for nontrivial apps? No way!
+>
+> Do /dev/poll and FreeBSD's KQ event driven APIs count? IMHO, true async
+> io as implemented by Windows 4.0 and beyond is pretty slick, but the
+> programming model is substantially more complex than programming to an
+> event API like /dev/poll. And true async does not buy much if the
+> system call overhead is low (as it is with Linux).
+
+I havent used the FBSD poll, as it's not portable, select and poll(still not
+100%) are all that exist in the UNIX world. Redhat of course doesnt count as
+portable either, but it's nice they are trying. The Windows I/O model does
+definately blow the doors off the UNIX one, but then they had select to
+point at in it's suckiness and anything would have been an improvement. UNIX
+is just now looking at it's I/O model and adapting to a multiprocess
+multithreaded world so it's gonna be years yet before a posix API comes out
+of it. Bottom line is the ""do stuff when something happens"" model turned out
+to be right, and the UNIX ""look for something to do and keep looking till
+you find it no matter how many times you have to look"" is not really working
+so great anymore.
+
+- Adam L. ""Duncan"" Beberg
+  http://www.mithral.com/~beberg/
+  beberg@mithral.com",normal,,,", ham, normal"
+88,spam,"Dear Sir,
+
+REQUEST FOR URGENT BUSINESS RELATIONSHIP.
+
+Firstly I must solicit your strictest confidence in this subject. This is by virtue of its nature as being utterly confidential and top secret. A member of the Nigeria Export Promotion Council (N.E.P.C.) who was part of the federal government delegation to your country during a trade exhibition gave your particulars to me. I have decided to seek a confidential operation with you in the execution of the deal described hereunder for the benefit of all the parties and hope that you keep it top secret because of the nature of the business.
+
+Within the ministry of petroleum resources where I work as a director of engineering and projects, and with the co-operation of four other very top officials, we have under our control as overdue contract",scam,pshing,,"pshing, spam, scam"
+89,spam,"Some opportunities only come around every 30 years or so. This is one of those. Why? Because interest rates are definitely rising. Have you locked in the lowest rate (in THREE DECADES yet!) for your present mortgage? Rates haven't been this low in almost 3 decades. They may well never be this low again--ever. If you haven't taken this opportunity to secure the best possible rate on your home loan, you're simply letting money slip through your fingers. At a few special times, it is SO easy to save ""big bucks""...and this is one of those times. Why continue to pay more than is necessary and continue to let future savings slip away? We're a national mortgage provider. We're NOT a broker. As such, we can guarantee you the lowest possible rate and the best possible deal but only if you act NOW. There is no charge, cost or obligation to see if this opportunity meets your needs. You can easily determine if a new loan makes sense for you, and exactly why, because we provide only ""easy to understand"" quotes (in ""layman's terms"", in other words). We offer primary and secondary home loans and we will be happy to show you in ""black and white"" why your existing loan is the best for you or why you should replace it. Of course, there's no cost to you at all to share your time with us. None. Take 2 minutes and use the link below that works best for you. For 2 minutes of your time, we'll show you how you can save you and your family ""big bucks"" today. This is a once-every-30-years opportunity. So don't delay and ""miss the boat"". Act now.
+",scam,pshing,,"pshing, spam, scam"
+90,spam,"If you are interested in receiving a FREE sample of an amazing product that is guaranteed to deliver quick and dramatic results for people interested in looking 10-20 years younger, then please take advantage of our free offer. We so much believe in our product that we are willing to invest in the costs of letting you try it for free!
+
+If you would like to try a FREE SAMPLE and receive a FREE TAPE, then simply send a blank email with the words ""SUBSCRIBE FOR FREE SAMPLE AND TAPE"" in the subject area to: fountainofyouth101@yahoo.com
+
+For faster delivery of your ""FREE SAMPLE AND TAPE"", please include the following information in your e-mail:
+
+Name:
+Phone #: (optional)
+E-Mail address:
+Mailing Address:
+You will be contacted within 24 hours SO WE CAN VERIFY YOUR INFORMATION AND PROCESS YOUR FREE SAMPLE SHIPMENT.
+Thank you,
+Health Associates, Int'l",indecent,illegal activities,,"illegal activities, spam, indecent"
+91,spam,"Expand your business!
+
+Make it easy for your customers to pay using Visa, Master Card, Discover, American Express, Debit Card, and Checks via Phone/Fax/Internet. How? Through a business Merchant Account!
+
+By providing multiple methods of acceptable payment, you automatically help ensure that it will be easier for them to pay you and build up trust. People DON'T want to send cash or checks via mail because it is dangerous and gives them absolutely no guarantees whatsoever. So make it easier for your customers and set up a Merchant Account for your business.
+
+There are NO setup fees, and the monthly costs are very low.
+
+To obtain more information, please reply to this email with your name, phone number with area code, and a good time to call. You will be contacted within 10 business days by one of our staff.
+
+Thank you for your time.
+
+To be removed from our contact list, send us an email with the subject ""Remove"" and you will be automatically taken off our list. If removal does not work, reply with your email address in the Body of the email.",scam,pshing,,"pshing, spam, scam"
+92,spam,"DEAR SIR,
+
+I am MRS MARIAM ABACHA, wife of the late Nigerian Head of State, General Sani Abacha, who died on the 8th of June 1998 while still on active duty. I am contacting you in view of the fact that we will be of great assistance to each other likewise developing a cordial relationship.
+
+I currently have within my reach the sum of thirty-six million United States Dollars (US$36,000,000) in cash, which I intend to use for investment purposes specifically in your country. This money came as a result of a payback contract deal between my late husband and a Russian firm on our country's Multi-Billion Dollar Ajaokuta Steel Plant. The Russian partners returned my husband's share of US$36,000,000 after his death and lodged it with my late husband's security company in Nigeria, of which I am a director.
+
+Right now, the new civilian government has intensified its probe on my husband's financial resources and they have revoked our licenses that allow us to own a financial and oil company. In view of this, I acted very fast to withdraw the US$36,000,000 from the company's vault and deposited it in a privately erected security safe abroad. No record ever existed concerning the money, neither is the money traceable by the Government because there is no documentation showing that we received the money from the Russians.
+
+Due to the current situation in the country concerning the Government's attitude towards my family, it has become quite impossible for me to make use of this money within, thus I seek assistance to transfer this money into your safe bank account. On your consent, I shall expect you to contact me urgently to enable us to discuss details of this transaction.
+
+Bearing in mind that your assistance is needed to transfer the funds, I propose a commission of 20% of the total sum to you for the expected services and assistance. Your urgent response is highly needed so as to stop further contacts.
+
+All correspondence should be forwarded to this EMAIL: zenab.m@ompadec.zzn.con or you can call my son's mobile: hamza 234-8023137978
+
+I use this opportunity to implore you to exercise the utmost indulgence to keep this matter extraordinarily confidential, whatever your decision, while I await your prompt response.
+
+Best personal regards,
+MRS MARIAM ABACHA",scam,investment,,"investment, spam, scam"
+93,spam,"Earn Extra Income From Home. Here is a tremendous opportunity to earn big money. We are a multimillion company that is growing at a rate of 1000% per year. We are looking for motivated individuals who are looking to earn a substantial income from home. This is what you've been waiting for—a chance to be financially secure.
+
+Earn Extra Income From Home. Here is a tremendous opportunity to earn. No experience is required. We will provide the training you may need. We are looking for energetic and self-motivated people who want to change their life. If that is you, click the link below and complete our online information request form, and one of our employment specialists will contact you.
+
+Click here to fill the form
+
+Got nothing to lose and a lot to gain, with a career that will provide you cash opportunities and substantial income. Please fill out our online information request form here: Click here
+
+To remove yourself from our list, simply click on the link below now:
+Remove link
+
+9986dxkU6-303JWSp0699MAYXl24",scam,investment,,"investment, spam, scam"
+94,spam,"Hello, jm@netexplorer.com
+
+As seen on NBC, CBS, and CNN, and even Oprah! The health discovery that actually reverses aging while burning fat, without dieting or exercise! This proven discovery has even been reported on by the New England Journal of Medicine.
+
+Forget aging and dieting forever! And it's Guaranteed!
+
+Reduce body fat and build lean muscle WITHOUT EXERCISE!
+Enhance sexual performance
+Remove wrinkles and cellulite
+Lower blood pressure and improve cholesterol profile
+Improve sleep, vision, and memory
+Restore hair color and growth
+Strengthen the immune system
+Increase energy and cardiac output
+Turn back your body's biological time clock 10-20 years in 6 months of usage!!!
+FOR FREE INFORMATION AND GET FREE 1 MONTH SUPPLY OF HGH CLICK HERE
+
+You are receiving this email as a subscriber to the Opt-In America Mailing List.
+To remove yourself from all related mailings, just Click Here",irrelevant,advertisement,,"advertisement, spam, irrelevant"
+95,spam,"I am Edward Mulete JR., the son of Mr. STEVE MBEKI MULETE from Zimbabwe. I am sorry this mail will surprise you, though we do not know, my mother Mrs. Clara Got your contact through her private search. Due to the current war against white farmers in Zimbabwe and the support of President Robert Mugabe to claim all white-owned farms in our country to gain favor for re-election, all white farmers were asked to surrender their farms to the government for redistribution, and in fact, to his political party members.
+
+My father, though black, was the treasury of the farmers' association and a strong member of an opposition party that did not support the president's idea. He then ordered his party members and the police under his pay to invade my father's farm and burn everything in the farm. They killed my father and took away many items from the farm.
+
+After the death of my father, our local pastor and a close friend of my father handed us over will documents with instructions from my father that we should leave Zimbabwe in case anything happened to him. The will documents contain a certificate of deposit, confirming a deposit kept in custody for us in a security company, unknown to the company, which confirms that the content is money. The total amount is US$21.5M.
+
+We are therefore soliciting your assistance to help us move the funds out of Zimbabwe, as our fate and future are uncertain. Hence, this email to you. The president's present ban on international press into Zimbabwe and the resignation of the Finance Minister to avoid giving white farmers fund transfer clearance above US$1M is just a few of the unthinkable things happening in our country.
+
+I have tried to reach my father's close friend Mr. John Casahans from Australia, who was living in Zimbabwe with us but left with his family late last year following this ugly development, to no avail. Should you be interested in helping us, contact me immediately via email for easy communication, and I will furnish you with the time frame and modalities of the transaction.
+
+We have concluded a wonderful plan to carry out the transfer within two weeks. Please note that this transaction is 100% confidential and risk-free and will not endanger you or us in any way. We have resolved to give you 20% of the total sum upon confirmation of the fund in any account of your choice where the incident of taxation will not take much toll on the money, and we look forward to coming over to your country to invest our share and settle there.
+
+I will have a private phone so that our conversation can be 100% confidential. Please do not use the reply button, reply only to Edmulete7@netscape.net.
+
+Please take note. God bless you indeed as you help yourself and us.
+
+Mr. EDWARD MULETE",scam,pshing,,"pshing, spam, scam"
+96,spam,"Got Bad Credit??? FIX IT!!!
+
+YES! Fix your OWN credit report with our easy to use software. No Attorney Fees! Simply download your way to good credit. Get rid of negatives on your credit report easily!
+
+NuCredit is available in two versions:
+
+NuCredit for individual use is ONLY $49.95
+Credit Pro for use with up to 10 people for ONLY $99.00
+Follow the link below and start repairing your credit TODAY!!
+
+http://211.152.134.203/~inbox013
+
+If you wish to be removed from our mailing list please click the link below and indicate the address at which you received this original email at so we can properly remove it from our list.
+
+mailto:NuCredit4@yahoo.com?subject=REMOVE",scam,investment,,"investment, spam, scam"
+97,spam,"If you are finding that MS Excel is fine as a spreadsheet but doesn't allow you to build
+custom applications and reports with your data - don't worry, there is an alternative.
+
+The good news is that 1 million customers have found a really good alternative
+
+Try our database software that does not make you feel like a dummy for free. Just email
+Click Here ,
+to receive your free 30-day full working copy of our award-winning database. Then you can decide for
+yourself.
+
+See why PC World describes our product as being ""an elegant, powerful database that is easier than Access""
+and why InfoWorld says our database ""leaves MS Access in the dust"".
+
+We have been in business since 1982 and are acknowledged as the leader in powerful BUT usable
+databases to solve your business and personal information management needs.
+
+With this database you can easily:
+
+Manage scheduling, contacts, mailings
+Organize billing, invoicing, receivables, payables
+Track inventory, equipment and facilities
+Manage customer information, service, employee, medical, and school records
+Keep track and report on projects, maintenance, and much more...
+To be removed from this list Click Here",scam,health,,"health, spam, scam"
+98,spam," 
+hello !  hungry 30 to 40 girls wants to date you
+pama kowbtemin mine '",indecent,pshing,,"pshing, spam, indecent"
+99,spam,"The body (gövde) of this email is as follows:
+
+---
+
+I ' ve been using your product for 4 months now. I ' ve increased my length from 2  
+to nearly 6. Your product has saved my sex life. - Matt, FL
+
+My girlfriend loves the results, but she doesn ' t know what I do. She thinks  
+it ' s natural. - Thomas, CA
+
+Pleasure your partner every time with a bigger, longer, stronger unit.  
+Realistic gains quickly.  
+To be a stud, [press here](#).
+
+But even as the red sun peeped curiously over the horizon, he was  
+awakened by a most unusual disturbance - a succession of hoarse screams and a  
+pounding of the air as from the quickly revolving blades of some huge  
+windmill.  
+Oranjestad, Aruba, PO B  
+1200.  
+The cab-horse, who was browsing near, lifted his head with a sigh, rubbed his eyes, and looked around.",indecent,pshing,,"pshing, spam, indecent"
+100,spam,"Looking for extremely cheap high-quality software?
+We might have just what you need.
+
+Windows XP Professional 2002 . . . . . . . . . . . . . $50
+Adobe Photoshop 7.0 . . . . . . . . . . . . . . . . . . . . . . $60
+Microsoft Office XP Professional 2002 . . . . $60
+Corel Draw Graphics Suite 11 . . . . . . . . . . . . . $60
+And lots more...",irrelevant,advertisement,,"advertisement, spam, irrelevant"
+101,spam," rubbed his hands
+find partners for hot
+pictures of lonely couplez",indecent,illegal activities,,"illegal activities, spam, indecent"
+102,spam,"neon
+- awesome agenda . Doc",scam,health,,"health, spam, scam"
+103,spam," erich call the doctor .
+the secret on how porn stars grew big dicks !
+the answer is here .
+turn off notifications here .
+lc international
+exports ltd
+st . eugenio # 4999 belize city ,
+belize",indecent,illegal activities,,"illegal activities, spam, indecent"
+104,spam,"shy mom wants to date you
+hello there !
+Sode",indecent,sexual content,,"sexual content, spam, indecent"
+105,spam,"
+2.2 GB CF+ Type II Drive  
+$78.00  
+Great for digital cameras, PDAs, or MP3 players!  
+Provides 2.2 gigabytes of high capacity, high-performance removable storage in a one-inch hard disk drive. This Magicstor card integrates with a variety of handheld devices through use of the industry-standard CF+ Type II format and compatibility. Plus, it's so small you can take it almost anywhere!!!  
+
+Visit: [www.computron-me.com](http://www.computron-me.com) for deals!  
+Your one-stop distributor, Jebel Ali Duty Free Zone, Dubai, UAE.  
+
+For the latest clearance sale listings, contact our sales department. For further details, please send your enquiries to:  
+dealers@emirates.net.ae  
+or contact via [www.computron-me.com](http://www.computron-me.com).  
+
+We offer products from the following companies:  
+Compaq, Hewlett Packard, 3Com, Dell, Intel, Iomega, Epson, AOpen, Creative, Toshiba, APC, Cisco, US Robotics, Microsoft, Canon, Intellinet, Targus, Viewsonic, IBM, Sony, and more!  
+
+If you have any complaints or suggestions, contact: customerservice@computron-me.com  
+Tel: +971 4 8834464  
+Fax: +971 4 8834454  
+Jebel Ali Duty Free Zone, Dubai, UAE  
+
+All prices in US dollars, ex-works. Prices and availability are subject to change without notice.  
+
+To receive our special offers in plain text format, reply to this email with the request *for export only*.  
+
+This email cannot be considered spam as long as we include: contact information and removal instructions. This message is intended for dealers and resellers only. If you have somehow gotten on this list in error, or for any other reason would like to be removed, please reply with ""remove"" in the subject line of your message.  
+
+This message is being sent in compliance with federal legislation for commercial e-mail (H.R. 4176 - Section 101 Paragraph (e)(1)(a) and Bill S. 1618 Title III passed by the 105th U.S. Congress).  
+
+All logos and trademarks are the property of their respective owners. Products may not be exactly as shown above.  
+
+To unsubscribe from: Computron 4, just follow this link:  
+Click the link, or copy and paste the address into your browser.  
+Please give it at least 48 hours for unsubscription to be effective.
+",scam,pshing,,"pshing, spam, scam"
+106,spam,"Dear applicant 7354,
+
+After a financial review of your situation, you have been qualified for a 3.3% deal. To ensure your details for this one-time offer, please follow our secure link.
+
+We appreciate your business.
+
+Sincerely,
+Keith Kennedy - OI & Associates",scam,pshing,,"pshing, spam, scam"
+107,spam,"Attached is the April 2001 assignment, termination & expiration report for Houston Pipeline's contracts. (FYI - it contains all of the entries made by our group since the report was last done on 3/8/01, regardless of the effective date.) If you do not need to receive this report or if you know of someone else that should receive it, please let me know by e-mail or phone (x-36982) so that I can either remove your name from or add their name to the distribution list.
+",irrelevant,advertisement,,"advertisement, spam, irrelevant"
+108,spam,"You can live a life of luxury only if you work for yourself.
+
+Absolutely FREE information on a home-based business.
+
+Just CLICK HERE",irrelevant,advertisement,,"advertisement, spam, irrelevant"
+109,spam,"Regarding Dare to Compare!
+
+Do you have the LOWEST mortgage rate available?
+
+Compare our rates.
+No obligation.
+Search hundreds of lenders instantly.
+Free quotes.
+ALL Credit Accepted. A, B, and subprime!
+One thing we all know, rates won't stay this low forever. Search now: Click here
+
+To unlist: Click here
+",scam,pshing,,"pshing, spam, scam"
+110,spam,"Opportunity is knocking.
+
+Why? Because mortgage rates are rising. As a National Lender, not a broker, we can guarantee you the lowest possible rate on your home loan. Rates may well never be this low again. This is your chance to secure a better future.
+
+You could literally save enough money to buy that new car you've been wanting or to take that special vacation. Why pay more than you have to pay? We can guarantee you the best rate and the best deal possible for you. But only if you act now.
+
+This is a free service. No fees of any kind. You can easily determine if we can help you in just a few short minutes. We only provide information in terms so simple that anyone can understand them. We promise that you won't need an attorney to see the savings.
+
+We offer both first and second home loans and we will be happy to show you why your current loan is the best for you or why you should replace it. Once again, there's no risk for you. None at all.
+
+Take two minutes and use the link(s) below that works for you. Let us show you how to get more for yourself and your family. Don't let opportunity pass you by. Take action now.
+
+Click Here
+
+Sincerely,",scam,investment,,"investment, spam, scam"
+111,spam,"Dear Homeowner,
+
+Interest rates are at their lowest point in 40 years! We help you find the best rate for your situation by matching your needs with hundreds of lenders! Home Improvement, Refinance, Second Mortgage, Home Equity Loans, and much, much more! You're eligible even with less than perfect credit!
+
+This service is 100% FREE to home owners and new home buyers without any obligation. Where others say NO, we say YES!!!
+
+Click here
+Take just 2 minutes to complete the following form. There is no obligation, all information is kept strictly confidential, and you must be at least 18 years of age. Service is available within the United States only. This service is fast and free.
+
+Opt-out here",scam,investment,,"investment, spam, scam"
+112,spam,"Why Spend upwards of $4000 on a DVD Burner when we will show you an alternative that will do the exact same thing for just a fraction of the cost?
+
+Copy your DVDs NOW. Best price on the net.
+
+Click here
+
+To remove: Click here",irrelevant,advertisement,,"advertisement, spam, irrelevant"
+113,spam,"
+I work with a company that submits websites to search engines and saw your listing on the internet. We can submit your site twice a month to over 400 search engines and directories for only $29.95 per month. We periodically mail you progress reports showing where you are ranked.
+
+To get your website in the fast lane, call our toll-free number below!
+
+Sincerely,
+Mike Bender
+888-892-7537
+
+*All work is verified
+
+To be removed, call: 888-800-6339 X1377",irrelevant,advertisement,,"advertisement, spam, irrelevant"
+114,spam,"911 Anniversary Gift.
+
+Free with NO SHIPPING! Grab one of these hot gifts, available to all Americans for free. (Valid until Sep 11)
+
+Click here to claim your Free ColonialMint $2001 Bush Memorial Dollar Bill
+
+Perfect gift for mom, dad, family members, friends, and co-workers. Every American should have one. (Free gift valid for U.S. Residents Only)
+
+Get your Free 911 Anniversary $2001 Dollar gift here
+
+Limited collector item. Grab one of the hottest American collectibles for FREE before Sep 11, 2002.
+
+Regards,
+Melanie Conell
+Gift CD Editorial Team
+GiftCD Website",scam,pshing,,"pshing, spam, scam"
+115,spam,"Subscription, Disclaimer & Copyright
+
+This email is part of your GiftCD Newsletter subscription. If you are no longer interested, please forward this email to: unsubscribenow@giftcd.com.
+
+IMPORTANT: To protect our subscribers' privacy, we do not allow third-party subscriptions. If you receive this email by mistake or if your friend subscribed for you without your consent, please forward this email to us for further investigation.
+
+We welcome suggestions, comments, and feedback. Contact us at: optinsupport@giftcd.com.
+",irrelevant,advertisement,,"advertisement, spam, irrelevant"
+116,spam,"Friend, Get Help With Your Debt Now!!
+
+Hi Friend,
+
+Is your debt causing you problems? CONSOLIDATE YOUR DEBTS! and...
+
+Pay one monthly payment that you can afford
+Reduce interest rates, paying off your debt sooner
+Avoid the consequences of bankruptcy
+Answer your phone calls without fear!
+Click Here for A Free Evaluation!
+or type this link into your browser.
+
+Remove yourself from this recurring list by sending a blank email to:
+unsub-7552100-311@mm53.com
+
+OR
+
+Sending postal mail to:
+Customer Service
+427-3 Amherst Street, Suite 319
+Nashua, NH 03063",scam,investment,,"investment, spam, scam"
+117,ham,"Rick,
+
+Attached are completed letters to the parties requested. As you will note, there are two letters to Lone Star and two letters for Apache. Since you are sending these electronically to Michael Mazowita for him to obtain the signature of Rick Vicens, please have copies of the executed letters sent to Sandi Braband's attention.
+
+These letters will have to be printed on appropriate letterhead and copies sent to the CCs at the bottom of each letter.
+
+If you have any questions, please let me know.
+
+Bob Walker
+Sr. Legal Specialist",normal,,,", ham, normal"
+118,ham,"hey daren , is this your e - mail address ? ? ? ? ? ?",normal,,,", ham, normal"
+119,spam,"I am Dr James Alabi, the chairman of contract award and review committee set up by the federal government of Nigeria under the new civilian dispensation to award new contracts and review existing ones. I came to know of you in my search for a reliable and reputable person to handle a very confidential transaction, which involves the transfer of a huge sum of money to a foreign account. There were series of contracts executed by a consortium of multi-nationals in the oil industry in favor of N.N.P.C. The original values of these contracts were deliberately over invoiced to the sum of US$12,320,000.00 (Twelve Million Three Hundred and Twenty Thousand United State Dollars). This amount has now been approved and is now ready to be transferred being that the companies that actually executed these contracts have been fully Paid and the projects officially commissioned.
+
+Consequently, my colleagues and I are willing to transfer the total amount to your account for subsequent disbursement, since we as civil servants are prohibited by the code of conduct bureau (civil service law) from operating and/or opening foreign accounts in our names. Needless to say, the trust reposed on you at this juncture is enormous, in return, we have agreed to offer you 20% of the transferred sum, while 10% shall be set aside for incidental expenses (internal and external) between both parties in the course of the transaction you will be mandated to remit the balance to other accounts in due course. Modalities have been worked out at the highest level of the Ministry of Finance and the Central Bank of Nigeria for the immediate transfer of the funds within 7 working days subject to your satisfaction of the above stated terms. Our assurance is that your role is risk free. To accord this transaction the legality it deserves and for mutual security of the funds the whole approval procedures will officially and legally processed with your name or the name of any company you may nominate as the bonefide beneficiary.
+
+Once more I want you to understand that having put in over twenty-five years in the civil service of my country, I am averse to having my image and career dented. This matter should therefore be treated with utmost secrecy and urgency it deserves. Please you should signify your intention to assist by sending me a reply to this email to state your position on this transaction, if favorable we will take further steps to brief you the full details of this viable transaction.
+
+I want to assure you that this business proposal is 100% risk free as we have done our homework properly. I quite believe that you will protect our interest by taking this deal strictly confidential, as we are still in government service, which we intend to retire from in full honor. Kindly expedite action as we are behind schedule to enable us include this transfer in the next batch which would constitute the new quarter payments for the 2002 financial year.
+
+Thank you and God bless.
+
+Dr James Alabi",scam,pshing,,"pshing, spam, scam"
+120,spam,"Hello,
+
+Would you like at least $1500.00 to $3500.00 per day just for returning phone calls? I do!
+
+If you have a telephone and can return 3-10 calls a day, you are fully qualified for this program.
+
+Give us a call:
+888-238-3164
+800-547-8612",scam,pshing,,"pshing, spam, scam"
+121,ham,"Reuters to provide its customers with EnronOnline real-time quotes. Effective June 4, 2001, Reuters has launched a new EnronOnline real-time quotes service benefiting commodity traders and industry analysts. Subscribers to this service will be able to view bids, offers, and midpoints, as well as high, low, and closing midpoint and change from previous day indications for numerous commodity products available on EnronOnline. Subscribers will be able to integrate EnronOnline real-time quotes with Reuters' news, data, and analytical tools to view real-time prices and charts, as well as create option models, position reports, and other analysis.
+
+Initially, the quotes will be available for power, natural gas, crude oil and refined products, metals, bandwidth, coal, seafreight, emission allowances, and weather derivatives markets in North America and Europe.
+
+For more information, visit www.reuters.com/enrononlinequotes or call Reuters at 1-800-226-3955. Please forward this e-mail to others who may benefit from this service.",normal,,,", ham, normal"
+122,ham,http://www.pge-texas.com/www/gtt.nsf/htmlmedia/operations.html,normal,,,", ham, normal"
+123,ham,"I can receive attachments on my Hotmail address. I can't get on Juno. Send me one and see if I get it. Send my Wild Thing, and send me something of Jake. And please let me know if everything is OK with Jake.
+
+Love ya,
+Ma",normal,,,", ham, normal"
+124,ham,"It appears that the price on PGEV should be index less $0.06, not index less $0.05 for the redelivery.
+
+Let me know which is correct per the exchange agreement.
+
+Thanks,
+K",normal,,,", ham, normal"
+125,ham,"We are getting bad numbers in pops for Sat. Oct. 28th. They are the same as Oct. 27th (27th is correct). Please watch imbalances very closely. Double check all numbers.
+
+Thanks,
+Pat",normal,,,", ham, normal"
+126,ham,"Effective today, please send future correspondence to me at:
+staceykn@yahoo.com.
+
+Thanks.",normal,,,", ham, normal"
+127,ham,"Is it very dark in color? And how big around is it?
+",normal,,,", ham, normal"
+128,spam,"Experience the results you've always wanted with a massive scientific breakthrough:
+Our Doctor-Approved Pill Will Actually Expand, Lengthen And Enlarge Your Penis. 100% GUARANTEED!
+
+Best of all, There Are NO Agonizing Hanging Weights, NO Tough Exercises, NO Painful And Hard-To-Use Pumps, And There Is NO Dangerous Surgery Involved.
+We Guarantee genuine lasting results! Vig-Rx pills will work for you 100%, or you will get 100% of your money back!
+
+Click here to give it a try
+""This is one of the best investments I have ever made. I cannot even begin to express how much gratitude I have for this product. I am not even through with my first bottle and have already grown 1 inch in length and just over 1 inch in girth, and I still have another bottle to go! No more am I the average 6 inch guy.""",indecent,illegal activities,,"illegal activities, spam, indecent"
+129,spam,"Experience the results you've always wanted with a massive scientific breakthrough:
+Our Doctor-Approved Pill Will Actually Expand, Lengthen And Enlarge Your Penis. 100% GUARANTEED!
+
+Best of all, There Are NO Agonizing Hanging Weights, NO Tough Exercises, NO Painful And Hard-To-Use Pumps, And There Is NO Dangerous Surgery Involved.
+We Guarantee genuine lasting results! Vig-Rx pills will work for you 100%, or you will get 100% of your money back!
+
+Click here to give it a try
+""This is one of the best investments I have ever made. I cannot even begin to express how much gratitude I have for this product. I am not even through with my first bottle and have already grown 1 inch in length and just over 1 inch in girth, and I still have another bottle to go! No more am I the average 6 inch guy.""",indecent,illegal activities,,"illegal activities, spam, indecent"
+130,ham,"How did you fix it? By creating the pidfile as the ""-u"" user? If so,
+you should add this to the documentation since it prevents the use of
+the standard /var/run directory (which is only writable by root).
+
++Thomas",normal,,,", ham, normal"
+131,ham,"Executive pay has once again outpaced average earnings, climbing an average of 17% last year.
+
+For more details, visit: News Article.",normal,,,", ham, normal"
+132,ham,"one up: I hate everything post-(the first ten seconds of the universe), but especially everybody and everything, and including but not limited to puppies and ice cream. And you. I especially hate you.
+
+Joe",normal,,,", ham, normal"
+133,ham,World latest: The US and Britain yesterday told the chief UN weapons inspector not to resume inspections in Iraq until new guidelines were passed.,normal,,,", ham, normal"
+134,ham,"Sorry, I can't help you on this.",normal,,,", ham, normal"
+135,ham,"Come to me, slave. Your doing it again ... Going into your shell and unconsciously avoiding me ... You are making me unhappy :-(",normal,,,", ham, normal"
+136,spam,U have a secret admirer who is looking 2 make contact with U-find out who they R*reveal who thinks UR so special-call on 09058094594,irrelevant,advertisement,,"advertisement, spam, irrelevant"
+137,ham,Just seeing your missed call my dear brother. Do have a gr8 day.,normal,,,", ham, normal"
+138,spam,"Hottest pics straight to your phone!! See me getting Wet and Wanting, just for you xx Text PICS to 89555 now! txt costs 150p textoperator g696ga 18 XxX",indecent,sexual content,,"sexual content, spam, indecent"
+139,ham,That's the way you should stay oh.,normal,,,", ham, normal"
+140,ham,Hello- thanx for taking that call. I got a job! Starts on monday!,normal,,,", ham, normal"
+141,spam,"Hello from Orange. For 1 month's free access to games, news and sport, plus 10 free texts and 20 photo messages, reply YES. Terms apply: www.orange.co.uk/ow",indecent,illegal activities,,"illegal activities, spam, indecent"
+142,ham,After completed degree. There is no use in joining finance.,normal,,,", ham, normal"
+143,ham,Shall i ask one thing if you dont mistake me.,normal,,,", ham, normal"
+144,ham,Check wid corect speling i.e. Sarcasm,normal,,,", ham, normal"
+145,ham,"As a continuation of the integration of Enron Metals into Enron Europe, we are pleased to announce the following organisational changes, which become effective immediately.
+
+Tom McKeever, currently the Chairman of Enron Metals, will move into the role of Vice Chairman of Enron Europe, reporting directly to John Sherriff and Michael Brown. Tom will focus on developing our key senior business relationships across all of Enron Europe.
+
+Joe Gold will become President of Enron Metals, responsible for the entire organization. We will announce Joe's replacement for managing our trading and origination efforts on the continent in the near future.
+
+Michael Farmer and Michael Hutchinson will continue in their roles managing the Metals' merchanting and financial trading businesses, respectively.
+
+Please join us in congratulating Tom and Joe on their new roles.
+
+From: The Enron Europe Office of the Chairman",normal,,,", ham, normal"
+146,spam," 18 yearold cocksuckers !
+download hot teen movies now !
+hot new xxx movies !
+please remove me of this list",indecent,sexual content,,"sexual content, spam, indecent"
+147,ham,"Please have your presentations to me by 10 a.m. on Friday, October 20, 2000. It takes a couple of days to get the materials back from the copy center. The presentations have to be put in new binders this time, and it takes most of a day to assemble everything.
+
+I need to have the materials to the copy center by Friday afternoon to get them back by Monday afternoon or Tuesday morning. I will need most of Tuesday to finish assembling the binders, so it’s essential to have your completed presentations by Friday morning.
+
+Vince:
+
+Basket Options
+Binary (Digital) Options
+Krishna:
+
+Barrier Options
+Other Complex Structures
+Thanks for your help on this.
+
+Regards,
+Anita",normal,,,", ham, normal"
+148,spam,"17 mens and 81 womans die from aiw .
+tre lnk paliourg tlm paliourg @ iit . demokritos . gr
+paliourg cql ahk yep paliourg @ iit . demokritos . gr 997",scam,pshing,,"pshing, spam, scam"
+149,spam,"enhance your anatomy within a few days you should notice immediate erection size increases
+forget about your partner faking her orgasm or not being able to please
+her . you will be able to penetrate deeper so your partner will experience more pleasure as well as multiple orgasms during sexual intercourse . 86 % of women surveyed said that they would like their partner to be more ' full ' sexually . check out the only male enhancement formula with a free dvd i cannot afford the ridiculous prescription costs since i have no health insurance and am unemployed . your discount rates on the internet really helped me , and your staff was very knowledgeable and helpful . i saw immediate results , and now i have regained the confidence i had when i was younger , in the bedroom . - kenneth , salt lake city
+no , then link above guess i ' ll hunt him up and tell him about it . a few steps away stood a policeman rob approached him and asked : where ' s the king to - day ? the officer looked at him with mingled surprise and suspicion",indecent,illegal activities,,"illegal activities, spam, indecent"
+150,ham,"I think he can do it, Vince, but UT has asked him to speak at a leadership conference also on 2/16, which Rick Causey is encouraging him to do. He has all the information (I just sent it home in his mail as he returned this afternoon from a week of travel), so will press him to make a decision tomorrow. He may decide to do both or one or the other... I’ll let you know as soon as I do.
+SRS",normal,,,", ham, normal"
+151,ham,"Norma,
+
+Maureen Raymond refuses to sign her review. Can you please join us tomorrow to discuss it? I have a time slot available at 2:00, but I can reorganize my schedule to accommodate you.
+
+Vince",normal,,,", ham, normal"
+152,ham,"Maureen,
+
+Ok.
+
+Vince",normal,,,", ham, normal"
+153,ham,"As a speaker at EPRM's highly successful Power 2000 event in Houston, I am writing to inform you of our 2001 annual congress and to introduce myself. I will be responsible for the production of all North American EPRM events, having moved from our banking conference and training course division in July. Just to update you on the whereabouts of the EPRM team, Emma Wolfin is developing our technology events for Waters Conferences and Joel Hanley will be starting his new role as an EPRM journalist from November 1st.
+
+EPRM 2001 will be held in Houston on the 14th, 15th & 16th of May, and I am keen to start the initial research as soon as possible. I intend to call each Power 2000 speaker within the next two weeks. Initially, I would like to provide you with advanced notice of the event and wish to clarify some issues.
+
+What current industry developments merit streams or pre/post conference seminars at EPRM 2001?
+What research are you or your company involved in that would justify inclusion in EPRM 2001?
+Aside from your own work, what subjects are currently at the cutting-edge of energy risk management?
+Who else would you recommend as a potential speaker? (Regulatory bodies, academics, practitioners)
+
+Any assistance at this initial stage of research is appreciated. You can email me or call on +44 20 7484 9883. I look forward to working with you on this event.
+
+Paul Bristow
+Senior Conference Producer, EPRM Conferences",normal,,,", ham, normal"
+154,ham,"In deriving BS differential equation, we assume the underlying follows GBM
+ds = mu * s * dt + sigma * s * dz
+where mu is the drift, sigma is the volatility, both can be a function of s.
+Then we use delta hedging argument, we obtain the BS differential equation
+for the option price, regardless of mu.
+
+With the BS PDE and boundary condition, we can derive BS formula. Fine. No
+problem.
+
+Question comes here. Suppose the underlying is traded security and follows,
+say, mean-reverting process
+ds = beta (alpha - s) dt + sigma * s * dz
+Apparently, this SDE leads to a different probability distribution. However,
+using the delta hedging argument, we still get the same BS differential equation,
+with the same boundary condition, we get the same BS formula.
+
+Not fair!
+
+From another angle, I can derive the distribution from the BS PDE for the
+underlying, which is the lognormal distribution.
+
+My thinking is: can I derive the distribution for any SDE from the option PDE?
+The answer should be yes, but got to be from a different PDE rather than BS PDE.
+Then what we do about the delta-hedging argument?
+
+Thanks.",normal,,,", ham, normal"
+155,ham,"the texas desk has requested that we run the base gas roll tonight , 3 / 19 for
+april 2001 production
+thanks
+gg",normal,,,", ham, normal"
+156,ham,"The Christmas baskets have been ordered.
+
+We have ordered several baskets for the following individuals and teams:
+
+Earth-Sat Freeze
+Notis
+Smith Barney Group Baskets
+Rodney Keys
+Matt Rodgers
+Charlie Notis
+Jon Davis
+Move Team
+Phillip Randle
+Chris Hyde
+Harvey Freese
+Facilities
+Iain Russell
+Darren Prager
+Telephone Services
+Mary Martinez (Robert Knights Dept.)
+Trina Williams
+Daniel Hornbuckle
+Todd Butler
+Pamela Ford
+Ozarka
+Maryam Golnaraghi
+Special Baskets
+Greg Whalley
+Richard Weeks
+Any questions, please contact Kevin Moore.
+
+For other requests or price information, contact Kevin Moore.
+
+Please also let me know if you need any assistance with your Christmas cards.
+
+Thanks,
+Kevin Moore",normal,,,", ham, normal"
+157,ham,"Hi guys,
+
+Trying to clean up February's outstanding issues. It looks like we should have a deal with Sanchez at the above-referenced meter. Currently, Strangers Gas is getting the flow.
+
+Could you let me know if this is valid or not? Settlements needs to know ASAP. It seems an invoice for the gas has been received.
+
+Thanks!!
+Charlotte Hawkins",normal,,,", ham, normal"
+158,ham,"Julie,
+
+The Texas City plant will have a unit down until late Friday night or early Saturday morning. I will send the weekend nomination this afternoon.
+
+Ricky A. Archer
+Fuel Supply
+700 Louisiana, Suite 2700
+Houston, Texas 77002
+713-830-8659 (Direct)
+713-830-8722 (Fax)",normal,,,", ham, normal"
+159,ham,"Attached, please find the TXU nominations for the weekend of October 14 - 16, 2000.
+There are no scheduled flows.
+
+(See attached file: hplnl 014.xls)",normal,,,", ham, normal"
+160,ham,"Daren / Dave,
+
+Sorry I didn’t get this out yesterday. Give me a call if you have any questions.
+
+(See attached file: unitedsalt 8022.xls)",normal,,,", ham, normal"
+161,ham,"Thank you for registering at Citibank Account Online. You now have free access, 24 hours a day, to your Citibank account information.
+
+Sign on at https://www.accountonline.com/cb/login.dcl to view your statements, monitor your unbilled activity, and enroll in one of our electronic payment options. While you’re there, check out these great features:
+
+All-Electronic: Enroll today and make your paper statement a thing of the past. View it online instead. Then, pay your bill online with Click-to-Pay or Autopay.
+Express Request: Manage your Citibank account information from your computer. Change your address, request a credit line increase, order a replacement card, and more.
+Citibank Bill Manager: Receive and pay all of your bills online.
+Secure Messaging: Have a question? Use our secure message pad to correspond safely with our customer care center.
+Citibank Toolbar: Download this free software and enjoy one-click access to Account Online and other password-protected websites. Plus, the Citibank Toolbar will fill online shopping forms with just one click!
+Once again, thanks for registering. We hope you visit Account Online at https://www.accountonline.com/cb/login.dcl again soon.
+
+At the point of download, see terms and conditions governing use of the software.
+
+For your records, we have listed your user ID and email address below:
+
+User ID: colioquake
+Email Address: dfarmer@enron.com
+To learn about Citibank privacy, read our privacy promise.
+
+This message is for informational purposes only. Please do not reply to us at this email address—it is unattended, and we will not respond. Use the secure message center in Help/Contact Us at Account Online.",normal,,,", ham, normal"
+162,spam,"you have not tried cialls yet ?
+than you cannot even imagine what it is like to be a real man in bed !
+the thing is that a great errrectlon is provided for you exactly when you want .
+ciails has a iot of advantaqes over viaqra
+
+the effect lasts 36 hours !
+you are ready to start within just 10 minutes !
+you can mix it with aicohol ! we ship to any country !
+get it riqht now ! .",indecent,sexual content,,"sexual content, spam, indecent"
+163,spam,"we would like to thank you for your recent purchase on our website
+and thought that you may also be interested in our new lub . ricant
+that has been added to our line of herb - al supp - lements .
+it is gua ran - teed to help spice up your night life in the bed ` room .
+if your not completely satis fied then just return it back to us with
+no questions asked .
+you can view our new line at http : / / nikko . getchatimenow . com / x / poppi
+thank you once again",irrelevant,advertisement,,"advertisement, spam, irrelevant"
+164,spam,"hello ,
+i sent you an email a few days ago because you now qualify for a new mortgage .
+you could get a $ 300 , 000 for as little as $ 700 a month !
+credit is no problem , you can pull cash out or refinance .
+best regards ,
+bret thompson
+no thanks",scam,pshing,,"pshing, spam, scam"
+165,spam,"
+The body text for the given message is:
+
+email loading . . . %
+brewster crude embody lignite cf aboard elisabeth doorkeep dichotomous chalkline keypunch pomp",scam,pshing,,"pshing, spam, scam"
+166,spam,"eneric viagra, at cheap prices.
+most places charge $20, we charge $3. quite a difference, right?
+an amazing erection every time is guaranteed to you!
+go into sexual overdrive today... vroooom!
+shipped to the whole world. your solution is here: http://www.getcheapdrugs.biz/via/?oxygen
+",scam,health,,"health, spam, scam"
+167,spam,"medications from the comfort of our home!
+simple, quick and affordable!
+we deliver quality medications to your door!
+stop getting brochures here",irrelevant,advertisement,,"advertisement, spam, irrelevant"
+168,spam,"good day,
+i am kingsley muntu, decillion financial services south africa. this is an urgent and confidential business proposition.
+on june 14, 2000, a foreign consultant with the global oil corporation, mr. alan baker made a numbered time (fixed) deposit for twelve calendar months, valued at us $ 8,320,000.00, with us. upon maturity, i sent a routine notification to his forwarding address but got no reply. after a month, a reminder was sent and finally it was discovered from his contract employers, global oil corporation that mr. baker passed away.
+on further investigation, i found out that he died without making a will or a testament, and all attempts to trace his next of kin was fruitless. i also discovered that mr. baker did not declare any kin or relations in any of his official documents, including his deposit paperwork in my possession. this has been fixed under our management. no one will ever come forward to claim it.
+consequently, my proposal is that i will like you as a foreigner to stand in as the beneficiary to this investment. i am writing to you because i cannot operate a foreign account. i want to present you as the beneficiary of the funds so that you claim on my behalf with the help of my attorney.
+please provide me with your full names and address so that my attorney prepares the necessary documents, which will put you in place as the beneficiary to this investment.
+please observe utmost confidentiality, and be rest assured that this transaction will be of mutual benefit, as you will be entitled to 30 % of the money and the remaining 70 % for my own investment. if you are interested, reply me by email for further details.
+kind regards,
+kingsley muntu.",scam,pshing,,"pshing, spam, scam"
+169,spam,"good morning,
+we offer latest oem packages of all graphics and publishing software from corel, macromedia, adobe and others.
+$ 80 adobe photoshop 8.0 / cs
+$ 140 macromedia studio mx 2004
+$ 120 adobe acrobat 7.0 professional
+$ 150 adobe premiere pro 1.5
+$ 90 corel designer 10
+$ 90 quickbooks 2004 professional edition
+$ 75 adobe pageMaker 7.0
+$ 70 xara x v1.1
+$ 75 adobe audition 1.5
+$ 90 discreet 3d studio max 7
+$ 115 adobe golive cs
+$ 135 adobe after effects 6.5 standard
+$ 45 adobe premiere elements
+$ 125 corel painter ix
+$ 80 adobe illustrator cs
+$ 80 adobe indesign cs
+$ 240 adobe creative suite
+$ 140 adobe framemaker 7.1
+$ 50 ulead cool 3d production studio 1.0.1
+$ 90 alias motion builder 6 professional
+$ 30 quicken 2004 premier home & biz
+$ 30 adobe photoshop elements 3.0
+$ 110 adobe premiere pro 7.0
+learn more...
+sincerely,
+clemmie
+",irrelevant,advertisement,,"advertisement, spam, irrelevant"
+170,spam,"mortgage rates slashed for the last time!
+let us help you get a new mortgage for up to 100% of your home value
+lower your monthly payment!
+consolidate your debt!
+shorten the term of your loan!
+reduce your interest rate!
+national average mortgage rates
+program rates
+30 yr fixed 6.50%
+15 yr fixed 6.25%
+1 yr arm 5.51%
+choose from hundreds of loan programs like:
+purchase loans
+refinance
+debt consolidation
+home improvement
+interest only jumbo's
+no income verification
+fill out this simple form and we will compete for your business...
+required input field *
+name *
+address
+city
+state *
+zip code *
+business phone *
+home phone
+best time to contact
+morning afternoon evening
+total loan request
+approx. home value
+a consultant will contact you soon.
+all information given herein is strictly confidential and will not be re-distributed for any reason other than for the specific use intended. to be removed from our distribution lists, please click here...",irrelevant,advertisement,,"advertisement, spam, irrelevant"
+171,spam,"congratulations!
+official notification
+hpshum@hotmail.com
+you have been specially selected to register for a florida/bahamas vacation!
+you will enjoy:
+8 days / 7 nights of 1st class accommodations
+valid for up to 4 travelers
+rental car with unlimited mileage
+adult casino cruise
+great florida attractions!
+much much more...
+click here!
+(limited availability)
+to no longer receive this or any other offer from us, click here to unsubscribe.",scam,pshing,,"pshing, spam, scam"
+172,spam,"online credit breakthrough
+repair your credit online!
+that's right - you can now access + clear up bad credit online - directly from the comfort + convenience of your computer!
+watch your credit daily, with real-time updates
+get the information you need quickly and efficiently to remove negative credit items from your report!
+click here for more information",scam,investment,,"investment, spam, scam"
+173,spam,"welcome varou
+the graveyards are full of indispensable men. - charles de gaulle (1890 - 1970)
+the only paradise is paradise lost. - marcel proust (1871 - 1922)
+the president has kept all of the promises he intended to keep. - clinton aide george stephanopolous speaking on larry king live",irrelevant,advertisement,,"advertisement, spam, irrelevant"
+174,spam,"want me on top ? 189643322211
+put these nasty sluts to the test ! free access ! !
+heavy hard and free !
+nothing to loose ! ! click here , no membership required ! it ' s free
+note :
+84221111000",indecent,sexual content,,"sexual content, spam, indecent"
+175,spam,"dear bevstarl 0 ,
+rape sex !
+click here
+do you like sexy animals doing the wild thing ? we have the super hot content on the internet !
+this is the site you have heard about . rated the number one adult site three years in a row !
+- thousands of pics from hardcore fucking , and cum shots to pet on girl .
+- thousands videos
+so what are you waiting for ?
+click here
+you must be at least 18 to enter !
+to not be on our in house address database
+click here and you will eliminated from future mailings .",indecent,sexual content,,"sexual content, spam, indecent"
+176,spam,"Greetings!
+
+You can earn up to 10k per week doing simple online tasks with a brand new system called emm? It blows MLM away:
+
+No selling...
+No recruiting...
+No explaining or answering difficult questions...
+No 3-way calling...
+No begging friends and family...
+No rejection...
+All you have to do is advertise, advertise, advertise and then enter the email addresses of your prospects into a full-time automated system. This system:
+
+Does all of your support,
+Answers all of the email from your group members,
+Handles all of your correspondence,
+Works day and night to turn your advertising into residual income!
+It is absolutely phenomenal!
+
+To get the full details, please put ""send emm info"" in the subject line, then send to the address below:
+
+Thank you!
+
+PS: Removal instruction - just click below and send.",scam,pshing,,"pshing, spam, scam"
+177,spam,"heya !
+ m is the only site to offer an all natural male enhancement
+formula that is proven to increase your sperm volume by up to 500 % .
+our highly potent , volume enhancing formula will give our results
+in days and comes with an impressive 100 % guarantee .
+ try spur - m now ! and
+with our money back guarantee you have absolutely nothing to lose !
+look here : http : / / osseously . net / cum /
+no thanks : http : / / osseously . net / rr . php",indecent,sexual content,,"sexual content, spam, indecent"
+178,spam,"loading please wait . . . . . do you want a longer
+penis ?
+enlarge your penis ! instant rock hard
+erections ! longer lasting time !
+click here for information
+remove
+me",indecent,sexual content,,"sexual content, spam, indecent"
+179,spam,"you are not allowed to post to this mailing list , and your message has
+been automatically rejected . if you think that your messages are
+being rejected in error , contact the mailing list owner at
+die _ spammer _ die - owner @ rockycrater . org .",scam,pshing,,"pshing, spam, scam"
+180,spam,"Hello,
+
+We would like to offer localized software versions (German, French, Spanish, UK, and many others). All listed software is available for immediate download! No need to wait 2-3 weeks for CD delivery! Just a few examples:
+
+Norton Internet Security Pro 2005 - $29.95
+Windows XP Professional with SP2 full version - $59.95
+Corel Draw Graphics Suite 12 - $49.95
+Dreamweaver MX 2004 (Homesite 5.5 including) - $39.95
+Macromedia Studio MX 2004 - $119.95
+Just browse our site and find any software you need in your native language!
+
+Best regards,
+Lyndsey",irrelevant,advertisement,,"advertisement, spam, irrelevant"
+181,spam,"The best meds available  
+They got vi. co. din, x. @ nax, and v. aliu. m. and other popular products.  
+We accept almost every form of payment.  
+
+[Link 1](http://lyvnnwe.toogde.net/pgpho/index.htm)  
+[Quit Link](http://k.cs.toogde.net/pgpho/rm.html)  ",scam,health,,"health, spam, scam"
+182,spam,"thank you for your mail regarding our site . we will reply as soon as possible . in the meantime please continue to enjoy our site .
+tight lines
+bray sea anglers .",scam,pshing,,"pshing, spam, scam"
+183,spam,"This message was created automatically by mail delivery software.
+A message that you sent could not be delivered to one or more of its recipients.
+This is a permanent error. The following address(es) failed:
+lochnessclansman@aol.com
+(Generated from info@stayatlochness.com)
+
+SMTP error from remote mail server after end of data:
+Host mailin-03.mx.aol.com [205.188.158.121]: 554 - : (hvu
+)
+More info
+554 transaction failed",scam,pshing,,"pshing, spam, scam"
+184,ham,"Can't speak for the other alternatives, but i've been using scp for
+years with sexy results.
+
+Steve, yes, it's a simpsons quote(ish).
+-- 
+High salt diets are bad for you - but only outside marriage.",normal,,,", ham, normal"
+185,ham,"I just did another commit.  It was a minor change I'd been thinking of, so I 
+thought I'd check it in just to test cvs.
+
+Chris
+
+-- 
+Chris Garrigues                 http://www.DeepEddy.Com/~cwg/
+virCIO                          http://www.virCIO.Com
+716 Congress, Suite 200
+Austin, TX  78701		+1 512 374 0500
+
+  World War III:  The Wrong-Doers Vs. the Evil-Doers.",normal,,,", ham, normal"
+186,spam,"Save your money by getting an OEM software!
+
+Need software for your PC? Just visit our site, we might have what you need...
+
+Best regards,
+Ardith",irrelevant,advertisement,,"advertisement, spam, irrelevant"
+187,spam,"The best place to buy Viagra online at the best Viagra price.
+
+Feeling better is just a click away.
+The multitude of books is making us ignorant.
+A closed mouth gathers no feet.
+We are the music makers, and we are the dreamers of dreams.",scam,health,,"health, spam, scam"
+188,ham,"Unify enhancement tracking list for ENA upstream
+
+Hi everyone,
+
+See attached a listing of the documented enhancements that pertain to ENA upstream. What we need to do next is develop an impact for each one that gives an estimate of the number of hours saved for each item. Please supply these savings where your name is listed if you haven't already done so.
+
+The vision and purpose of this list is to provide Holland & Davis (a consultant) and upper management with the necessary information to determine the extent of IT resources that would be needed to enhance Unify. I will need your replies by COB May 31st.
+
+Thanks,
+MVE",normal,,,", ham, normal"
+189,spam," Photoshop, Windows, Office. Cheap. Cyclops Baseball
+
+Dewdrop prominent maneuvering monitor northwards
+Orienting assumption balalaika
+Magnitudes Charlie Draper
+Adornments Zomba mensuration
+Strung poorer barr avalanching
+Geodetic lashings haply trimmer financier
+Hoists overloaded degrade
+Twenty speculators malignant
+Skimmed nymphs thicket logarithms triplets",scam,pshing,,"pshing, spam, scam"
+190,spam,"hello , we would like to offer localized software versions ( german , french , spanish , uk , and many others ) . ail listed software is availabie for immediate downioad ! no need to wait 2 - 3 week for cd delivery ! just few examples : - norton lnternet security pro 2005 - $ 29 . 95 - windows xp professional with sp 2 fuli version - $ 59 . 95 - corei draw graphics suite 12 - $ 49 . 95 - dreamweaver mx 2004 ( homesite 5 . 5 includinq ) - $ 39 . 95 - macromedia studio mx 2004 - $ 119 . 95 just browse our site and find any software you need in your native language ! best reqards , lyndsey",scam,health,,"health, spam, scam"
+191,ham,"> I don't remember, I get random hangs while doing nothing more than light
+> surfing with some minimal background activity.
+
+What browser? Is it only on specific sites? Flash? Heavy Javascript or
+even Java? What does top show?
+
+Can you maybe test that on another distro as well? I remember some KDE
+4 versions with light hangs, typing would seem slow, but I don't have
+that issue anymore. I don't know when it disappeared.",normal,,,", ham, normal"
+192,ham,"Since libdvdcss-1.2.0, I have been unable to play DVDs using ogle, xine, vlc, or mplayer. They all show a scrambled picture with (VERY) choppy audio. When I run xine I see tons of these in the console:
+
+liba52: a52_block error liba52: a52_block error liba52: a52_block error liba52: a52_block error audio_out: inserting 5859 0-frames to fill a gap of 10989 pts metronom: audio jump liba52: a52_block error
+
+Has anyone seen this before and know how to fix it? Or should I file a bug report?
+
+Thanks for your help.
+
+Jon
+-- jon@tgpsolutions.com
+
+Administrator, tgpsolutions
+http://www.tgpsolutions.com",normal,,,", ham, normal"
+193,ham,"OSXCon: Development Lessons from Bare Bones SoftwareURL: http://jeremy.zawodny.com/blog/archives/000215.html
+Date: 2002-10-02T17:02:15-08:00
+
+This talk is not supposed to be technical or marketing, but more of a ramble. 
+We'll see. :-) ""Living above the Curve"" BB is a strange company, as they've 
+been Mac-only are have been in business for over 10 years....
+",normal,,,", ham, normal"
+194,ham,"Re: What needs to improve in KDE 4?At this moment, for me, kaddressbook?  Akonadi did not  get configured right, I 
+had to follow this advice to get it to start working:  
+http://forum.kde.org/viewtopic.php?f=20&t;=79717&sid;=ce96096a96a9d8ca3ebb13105dce3d21&start;=10#p137002
+
+Having done that yesterday I noticed that the concept of contact categories is 
+missing.  Today I found that I only get empty dialogs when I attempt to edit a 
+contact!  So for me kaddressbook is unstable.
+
+- Allen
+
+
+-- 
+To UNSUBSCRIBE, email to debian-kde-REQUEST@lists.debian.org
+with a subject of ""unsubscribe"". Trouble? Contact listmaster@lists.debian.org
+Archive: http://lists.debian.org/201005112038.02484.blowers@computer.org
+
+",normal,,,", ham, normal"
+195,ham,"[ILUG] gargnome & sawfish.. I decided to try out GarGnome, to see what gnome2 looks like. It's
+pretty, I'll give it that.
+
+ However, there seemed to be loads of bugs - sawfish threw wobblers all
+over the place, so I tryed out metacity - which doesn't have a GUI
+configurator, and arsed if I'm going back to the fvwm days when you had to
+set settings by hand, without an idea what the values looked like.
+
+ So, I went back to 1.4 - and now sawfish can't start applets (yes, I did
+change the LD_LIBRARY_PATH back) and the panel can't make new workspaces.
+
+ Any ideas what could have happened ? Would sawfish 2.0 silently change
+the config files & break them?
+
+Kate
+
+
+-- 
+Irish Linux Users' Group: ilug@linux.ie
+http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
+List maintainer: listmaster@linux.ie
+
+",normal,,,", ham, normal"
+196,ham,"[Razor-users] Problem with SDK 2.03?
+I recently brought up a new system - SuSe 7.3 and I am running
+spamassassin and procmail, which work fine.
+
+I tried bringing up razor (2.14) but I am not able to get the SDK to
+install and razor reports missing modules. They appear to be there. I
+followed the installation directions. There appears to be an endless list
+of errors. Any ideas on what to do or where to start?
+
+Doug
+
+
+
+
+-------------------------------------------------------
+This sf.net email is sponsored by:ThinkGeek
+Welcome to geek heaven.
+http://thinkgeek.com/sf
+_______________________________________________
+Razor-users mailing list
+Razor-users@lists.sourceforge.net
+https://lists.sourceforge.net/lists/listinfo/razor-users
+
+",normal,,,", ham, normal"
+197,ham,"LXDE does not log out.I am running LXDE on Squeeze and am keeping it up to date.  I recently noticed that I can not log out of a session.  Trying to do so results in no response at all.  I can shut down, or reboot without any problems, but logout does nothing.  I don't know if this started after the full-upgrade that I did last Monday (which caused other LXDE problems) or not, as I don't think I had tried to do a logout on this system before then.  This isn't a big issue, as it is on my laptop, on which I am the only user and I am usually either logged in and working, or the system is shut down.  I am primarily worried that this is a symptom of some other problem that I have not yet noticed.  Any ideas what could be causing this?
+
+ Marc Shapiro
+mshapiro_42@yahoo.com
+
+
+-- 
+To UNSUBSCRIBE, email to debian-user-REQUEST@lists.debian.org 
+with a subject of ""unsubscribe"". Trouble? Contact listmaster@lists.debian.org
+Archive: http://lists.debian.org/278444.52480.qm@web55507.mail.re4.yahoo.com
+
+",normal,,,", ham, normal"
+198,ham,"Thanks.  I think this is the approach I'm going to take.  I just tried
+install barebones Squeeze in Virtualbox, and I'm running into packaging
+problems when I try to install certain software from Lenny (LXDE and
+apt-show-versions, for example).
+
+-Rob",normal,,,", ham, normal"
+199,ham,"Re: The Wrong Business
+Actually this is output from an old java program called jitter.
+It's very useful for those of us with digital cameras who end up
+taking 50+ pictures a day while on vacation ;)
+
+-- 
+Gary Lawrence Murphy - garym@teledyn.com - TeleDynamics Communications
+ - blog: http://www.auracom.com/~teledyn - biz: http://teledyn.com/ -
+  ""Computers are useless. They can only give you answers."" (Picasso)
+
+",normal,,,", ham, normal"
+200,ham,"SunWell, it looks like Sun are going ahead with
+their ubiquitous computing plans without Mithril. 
+
+Greg
+
+Reuters Market News
+  Sun Micro Outlines Roadmap for Managing Networks 
+  Friday September 20, 5:00 am ET 
+  By Peter Henderson 
+
+  SAN FRANCISCO (Reuters) - Computer maker Sun Microsystems Inc. on Thursday
+  said it would create in a few years a network environment that will be as
+  straightforward to handle as a single machine, a strategy it calls N1.
+
+  It laid out a road map for a new layer of intelligent software and systems that will meld
+  unwieldy networks into easy-to-use systems, a goal similar to those of most rivals
+  making computers which manage networks. 
+  EMC Corp. announced this week software aimed at allowing users to manage storage
+  resources as a pool. Hewlett-Packard Co has a Utility Data Center, designed for
+  broader management. International Business Machines Corp's project eLiza is working
+  to make computers ""self-healing"" when systems break.
+
+  ""Applications still have to run zeroes and ones on some computing engine but the
+  whole idea behind N1 is you stop thinking about that. You don't think about what box
+  it is running on,"" Sun Vice President Steve MacKay, head of the N1 program, said in an
+  interview on the sidelines of a Sun user conference. 
+
+  Many industry executives see computer power eventually being sold like power or
+  water, as a utility that can be turned on or off, in whatever volume one wants whenever
+  needed. 
+  For that to happen computers must be tied together seamlessly, rather than cobbling
+  them together with tenuous links, as most networks do today, experts say. There are
+  still major barriers, though, such as communications standards for machines from
+  different vendors to interoperate closely. 
+  Sun promised to deliver a ""virtualization engine"" that would let administrators look at
+  their entire network as a pool by the end of the year. Network administrators today
+  often have no automatic system to report what is in the network. 
+
+  ""It'll tell you what you have and how it is laid out,"" promised MacKay
+  The second stage, beginning in 2003, would allow users to identify a service, such as
+  online banking, and allocate resources for them with a few clicks, Sun said. 
+  Finally, in 2004, Sun's software should allow networks to change uses of resources on
+  the fly in response to changing needs, such as a bank assuring quicker online response
+  time for priority users, the company said.
+
+",normal,,,", ham, normal"
+201,spam,"re : inoencnt neigbhour teen gteting huge cock
+what ' s so good about it ? : )
+addio",scam,pshing,,"pshing, spam, scam"
+202,spam,"message subject
+hey i ' am julie ^ _ ^ . i just turned 18 - high school senior in houston , tx . i was waiting for such a long time until this day . i finally got my wish . . i am just simply trying to show off and meet new cyber friends . and who knows where that can lead to ; d . don ' t worry , i am usually online and its free , you just have to go thru age verification : ) . i can ' t have youngers snooping around hehe .
+http : / / oioaz . stuntscholar . com / ju 2 /",indecent,sexual content,,"sexual content, spam, indecent"
+203,spam,"
+Now that oil and gas has entered a long-term bull market, our specialty in pinpointing the hottest companies of the few remaining undervalued energy plays has produced soaring returns. Emerson Oil and Gas (EOGI) is an energy developer in the US oil belt and in Canada's most highly coveted reservoirs with generating potential of millions per week.
+
+Watch this stock Friday morning:  
+Symbol: EOGI  
+Price: $0.09
+
+The value of EOGI's shares will skyrocket:  
+Breaking news!!!  
+Emerson Oil and Gas identifies lease opportunity in South Texas providing opportunity for 22- re-entry in the field with strong producing history and large recoverable reserves.  
+South Texas is a large existing field that was discovered and drilled by major oil companies in the 1970s. The field is established with substantial recoverable reserves, estimated at over 3.9 million barrels of oil and about 2 billion cubic ft. of gas in the two pay zones.
+
+1. Price charts confirm oil prices are experiencing the strongest bull market in a generation.  
+2. Natural gas prices have tripled in the last two years.  
+3. With multiple projects in high-gear and the expanding production on reserves worth multi-millions, EOGI is selling for less than 1/4 the value of its assets.  
+4. Emerson Oil and Gas specializes in using new technology to turn unproductive oil and gas deposits into profitable enterprises.  
+
+Already shares in the oil and gas sector are rising faster than the overall market. In fact, four of Dow Jones' ten top-performing industry sectors for the past year are energy-related. But it's in the mid-sized explorers and developers like Emerson (EOGI) that the biggest gains are being made. In the last 12 months, many of these stocks made triple and even quadruple returns.  
+
+Our subscribers need to pay particular attention to undervalued EOGI shares, because it won't be a bargain for long. This small company with a comparably small market value is sitting on a bonanza of oil and gas reserves—an unrecognized bonus for investors, especially with the daily jump in energy prices.  
+
+But all that will change in a few short weeks, as these reserves move into production, bringing an explosion of cash that is expected to capture the attention of the market, and have an equally explosive effect on the share price.
+
+What will the cash flow from these projects do for the price of Emerson Oil and Gas' shares? Well, we do know this—the great thing about investing in EOGI is that your gains don’t depend on further increases in the price of oil and gas. Even if energy prices stay flat, or decline slightly, you will still make a very healthy return. Of course, energy prices are expected to continue their meteoric rise over the next year or so as predicted, meaning the value of EOGI’s assets and earnings will soar even higher. In that case, the reward for investors will be staggering.
+
+Overall, we consider EOGI to be one of the last outstanding energy plays in the oil and gas sector. Once this discovery has been realized, EOGI shares will surge sharply on heavy investor attention. We have identified this discovery for immediate accumulation. EOGI's oil and gas reserves are well-established and are going into massive production. Early investors will secure optimum gains, and any additional news in this area will really turn up the heat, causing us to revise our targets upward in next week’s bulletin.
+
+Oil and Gas Advisory (OGA) is not an investment expert. Certain statements contained in this newsletter may be future-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Such terms as expect, believe, may, will, and intend or similar terms may identify these statements. Past performance is not an indicator of future results. This is not an expert to acquire or sell securities. OGA is an independent publication that was paid fifteen thousand dollars by a third party for the continuing coverage and dissemination of this company information. Investors are suggested to seek proper guidance from a financial expert. Investors should use the information provided in this newsletter as a starting point for gathering additional information on the profiled company to allow the investor to form their own opinion regarding investment.
+
+If you wish to stop future mailings, or if you feel you have been wrongfully placed in our membership, please send a blank email with “no thanks” in the subject to good-bye@fastmail.fm",scam,pshing,,"pshing, spam, scam"
+204,ham,"enron / hpl actuals for sept . 14 , 2000
+teco tap 25 . 000 enron / 112 . 500 hpl gas daily
+hpl ls katy 15 , 000 enron",normal,,,", ham, normal"
+205,ham,"Our people tell me that the t/a is going as planned and CLMP plans to begin start up on Sunday. Since it is a cold startup, it could take as long as a week to get to full rates. In any event, CLMP plans to begin pulling gas at reduced rates late Sunday or so",normal,,,", ham, normal"
+206,spam,"nurses , military , cops . . women in uniform
+click here to be removed",irrelevant,advertisement,,"advertisement, spam, irrelevant"
+207,ham,"wc 551 revision and notice of force majeure ( stingray p / l )
+please see the attached change to west cameron 551 and the notice of force
+majeure .
+thanks ,
+steve
+- wc 551 reveffo 53000 . xls
+- wc 551 forcemajeureo 530002 . Doc",normal,,,", ham, normal"
+208,spam,"Find a new date today. Sick and tired of being single? Are you annoyed by your girlfriend or wife? Millions of profiles of people local to your area looking for fun. Find a date for the night or search for your next wife. Many are very naughty and want to hook up for some casual boom boom. Meet someone new, right now. And it doesn't cost a thing to join in the fun.",scam,pshing,,"pshing, spam, scam"
+209,spam,"no fee prescription service for you
+email loading . . . :
+blest mingle ursuline",scam,pshing,,"pshing, spam, scam"
+210,spam,"stop wasting money on prescription drugs . get them online for 80 % off .
+vlagra , clalis , zyban , prozac , xenlcal , and many many more . . .
+stop paying more than you have too !
+- todays special -
+viagra , retail price $ 15 . 99 , our price $ 2 . 99
+cialis , retail price $ 17 . 99 , our price $ 3 . 99
+shipped world wide
+no prescription required
+visit us here :
+unsubscribe here : onnliine . com / rr . php",scam,pshing,,"pshing, spam, scam"
+,spam,📢 Discover the miracle tea that will help you lose 10 kilos in 15 days! Don't miss the free trial opportunity! 👉 [Link],scam,health,,"health, spam, scam"
+,spam,"""Losing weight has never been easier! Get a fit body with 100% natural, side-effect-free products. 🎯 Order now!""",scam,health,,"health, spam, scam"
+,spam,"""A natural way to get rid of cancer has been found! Download our free e-book now. 📚 [Link]""",scam,health,,"health, spam, scam"
+,spam,"""Your diabetes will be completely gone! Doctors will never tell you this method. Learn now! 🩺""",scam,health,,"health, spam, scam"
+,spam,"""Try this special vitamin formula to cleanse your body of toxins! On sale at a 50% discount! 💊 [Link]""",scam,health,,"health, spam, scam"
+,spam,"""Miracle vitamin capsules that will increase your energy and strengthen your immune system are here! 🛒""",scam,health,,"health, spam, scam"
+,spam,"""Your wrinkles will disappear in 7 days! Try the dermatologist-approved miracle cream now! 🌟""
+""End hair loss! 100% effective herbal serum is here. 💇‍♂️ Click to order!""",scam,health,,"health, spam, scam"
+,spam,"""Take a step for your health! 3 for 1 free campaign has started! Only valid today! 🛍️ [Link]""",scam,health,,"health, spam, scam"
+,spam,"""Private health insurance that will make you forget about your hospital expenses! Apply for free now. 🏥 [Link]""",scam,health,,"health, spam, scam"
+,spam,"""Uyurken kilo verdiren mucize hap! Günde sadece 1 kapsül ile forma girin! 🎉""",scam,health,,"health, spam, scam"
+,spam,"""Discover the new generation device that instantly eliminates your pain! It has revolutionized the world of science! 🔬""",scam,health,,"health, spam, scam"
+,spam,It is possible to get a prescription without going to the doctor! Consult with our experts online 24/7 and get your prescription now. 🩺 [Link],scam,health,,"health, spam, scam"
+,spam,Get advice from expert doctors without leaving home! The first consultation is free. Register now! [Link],scam,health,,"health, spam, scam"
+,spam,This new medicine puts an end to all your pain! Recommended and approved by doctors! Click to order now: [Link],scam,health,,"health, spam, scam"
+,spam,The miracle medicine that has been sold out all over the world is back in stock! Regain your health with the advice of Dr. [Fake Name]. Order now,scam,health,,"health, spam, scam"
+,spam,Getting antibiotics without a prescription has never been easier! Click and buy now! 💻 [Link],scam,health,,"health, spam, scam"
+,spam,Antidepressants and painkillers are now prescription-free! Order with a 50% discount and have it delivered to your door. Privacy guaranteed! [Link],scam,health,,"health, spam, scam"
+,spam,"According to Dr. X, this natural capsule is a cure-all! The solution to your heart conditions and blood pressure problems is here!",scam,health,,"health, spam, scam"
+,spam,Stop the drugs you use! Dr. Y recommends this completely natural method. Get healthy! 🌿 [Link],scam,health,,"health, spam, scam"
+,spam,Harvard doctors talk about this new drug! Forget all your discomfort. Learn now! 🎓 [Link],scam,health,,"health, spam, scam"
+,spam,"FDA approved miracle treatment! Dr. AHMAD recommends, try it now! 🛡️ [Link]",scam,health,,"health, spam, scam"
+,spam,"📄 Getting a prescription without going to the doctor is now very easy! Your prescription is ready in just a few minutes. Click: [Link]""
+- ""Get your prescription medications online now! With fast and secure delivery guarantee: [Link]""",scam,health,,"health, spam, scam"
+,spam," ""Great discounts on prescription drugs! Don't risk your health with up to 50% discounts. Buy now: [Link]""
+- ""Only today! All prescription products are in stock with our 3-get-1-free campaign. Click: [Link]""",scam,health,,"health, spam, scam"
+,spam,"No prescription needed! Order antibiotics, painkillers and more now. Delivered to your door: [Link]""
+- ""All prescription medications are now over-the-counter! Secret shopping and affordable prices at your service: [Link]",scam,health,,"health, spam, scam"
+,spam,"No prescription needed! Order antibiotics, painkillers and more now. Delivered to your door: [Link]""
+- ""All prescription medications are now over-the-counter! Secret shopping and affordable prices at your service: [Link]",scam,health,,"health, spam, scam"
+,spam,"Great discounts on prescription drugs! Don't risk your health with up to 50% discounts. Buy now: [Link]""
+- ""Only today! All prescription products are in stock with our 3-get-1-free campaign. Click: [Link]",scam,health,,"health, spam, scam"
+,spam,"Need a prescription? No need to see a doctor! Talk to our experts online and get your medicine prescribed right away: [Link]""
+- ""Get your prescription without leaving home! Save time with our online doctor service. Apply now: [Link]",scam,health,,"health, spam, scam"
+,spam,Say goodbye to prescription drugs! Protect your health with these natural supplements. 100% safe and recommended by doctors: [Link],scam,health,,"health, spam, scam"
+,spam,New generation FDA approved drugs are sold without a prescription! Forget about your pain immediately. Click and order: [Link],scam,health,,"health, spam, scam"
+,spam,Prescription products recommended by doctors are now more easily accessible! Get them now with a 40% discount: [Link],scam,health,,"health, spam, scam"
+,spam,"You need to get these drugs immediately for your child's health! Order without a prescription, don't miss the opportunity for fast delivery: [Link]",scam,health,,"health, spam, scam"
+,spam,"A special prescription drug campaign has started for the health of your loved ones! Order now, be safe: [Link]",scam,health,,"health, spam, scam"
+,spam,⚠️ A suspicious transaction has been detected in your account. Please log in immediately to confirm or cancel the transaction at [link].,scam,pshing,,"pshing, spam, scam"
+,spam,"Your bank information has been updated. Log in immediately to confirm: [link]. Otherwise, your account will be blocked!",scam,pshing,,"pshing, spam, scam"
+,spam,"A new password has been requested to log in to your account. If this is not you, check your information immediately at [link].",scam,pshing,,"pshing, spam, scam"
+,spam,Your card limit is about to be reached! Update immediately and request a new limit: [link],scam,pshing,,"pshing, spam, scam"
+,spam,Your shipment cannot be delivered! Click to verify your address information: [link],scam,pshing,,"pshing, spam, scam"
+,spam,"Your shipment has arrived. Click the following link to pay the shipping fee: [link]. Otherwise, it will be returned.",scam,pshing,,"pshing, spam, scam"
+,spam,Your package has been stuck at customs. Complete your missing information for fast delivery: [link].,scam,pshing,,"pshing, spam, scam"
+,spam,Your health insurance is about to be canceled! Click [link] now to reactivate it.,scam,pshing,,"pshing, spam, scam"
+,spam,COVID-19 testing is free! Use this link to verify your personal information: [link].,scam,pshing,,"pshing, spam, scam"
+,spam,Your medical report results are ready. Visit [link] for detailed information,scam,pshing,,"pshing, spam, scam"
+,spam,"Congratulations! You won 5,000 TL from the draw. Click [link] now to claim your prize",scam,pshing,,"pshing, spam, scam"
+,spam,Valid today only! You won an iPhone 15! Your information is required for delivery: [link].,scam,pshing,,"pshing, spam, scam"
+,spam,Last chance to claim your gift card! Click: [link].,scam,pshing,,"pshing, spam, scam"
+,spam,You must log in with your e-Government password. Click for details about your new ID application: [link].,scam,pshing,,"pshing, spam, scam"
+,spam,You have a tax debt. Make your payment immediately so that interest is not charged: [link].,scam,pshing,,"pshing, spam, scam"
+,spam,Legal action has been initiated against you. Log in to [link] to learn the details.,scam,pshing,,"pshing, spam, scam"
+,spam,Your line's package usage limit has been exceeded. Log in to [link] to purchase an additional package,scam,pshing,,"pshing, spam, scam"
+,spam,Your line will be closed because your bill has not been paid. Click to make payment: [link].,scam,pshing,,"pshing, spam, scam"
+,spam,You have won free internet! Click now to activate: [link].,scam,pshing,,"pshing, spam, scam"
+,spam,"Your Facebook account was logged in from a different device. If it is not you, verify immediately: [link].",scam,pshing,,"pshing, spam, scam"
+,spam,Your Twitter account is about to be suspended. Log in to [link] to protect your account.,scam,pshing,,"pshing, spam, scam"
+,spam,Suspicious activity has been detected on your Instagram account. Click to log in: [link],scam,pshing,,"pshing, spam, scam"
+,,🚗 Up to 50% off tires! The best quality tires for your vehicle are now at affordable prices. Click now: [Link],irrelevant,advertisement,,"advertisement, , irrelevant"
+,,🛞 Opportunity of the year for winter tires! Free installation and balancing service when you buy 4 tires. For the campaign: [Link],irrelevant,advertisement,,"advertisement, , irrelevant"
+,,It's the right time to renew your tires! 40% discount on summer tires. Limited stock! 🛒,irrelevant,advertisement,,"advertisement, , irrelevant"
+,, "Let's bring your new tires to your door in 24 hours! Order now: [Link]",irrelevant,advertisement,,"advertisement, , irrelevant"
+,,"Free shipping opportunity! Choose the most suitable tires for your vehicle now, don't miss out on fast delivery",irrelevant,advertisement,,"advertisement, , irrelevant"
+,,❄️ Get ready for winter! Winter tires are now on sale. Increase your vehicle's road holding: [Link],irrelevant,advertisement,,"advertisement, , irrelevant"
+,,Time to renew your summer tires! Click now for free installation and special offer products: [Link],irrelevant,advertisement,,"advertisement, , irrelevant"
+,,"The best prices on Michelin, Goodyear and Bridgestone tires are here! Choose the best for your vehicle safety: [Link]",irrelevant,advertisement,,"advertisement, , irrelevant"
+,,The secret of high performance and long-lasting tires is here! For new generation tires: [Link],irrelevant,advertisement,,"advertisement, , irrelevant"
+,,"""Free wheel-balancing adjustment when you buy 4 tires! Take your vehicle on the road safely. Details: [Link]",irrelevant,advertisement,,"advertisement, , irrelevant"
+,,Gift campaign! An air compressor is a gift with your tire purchase. Click now: [Link],irrelevant,advertisement,,"advertisement, , irrelevant"
+,,"Shop for tires now, take advantage of up to 12-month installment opportunities! Details: [Link]",irrelevant,advertisement,,"advertisement, , irrelevant"
+,,"Don't postpone your tire needs! Buy now, start paying in 3 months. [Link]",irrelevant,advertisement,,"advertisement, , irrelevant"
+,,Choosing the right tire is very important for your road safety! Our experts are here to help you: [Link],irrelevant,advertisement,,"advertisement, , irrelevant"
+,,"Long-lasting, durable and high-performance tires. Manufacturer's warranty on all products: [Link]",irrelevant,advertisement,,"advertisement, , irrelevant"
+,,"We do your tire checks for free! Visit our branch, increase the safety of your vehicle.",irrelevant,advertisement,,"advertisement, , irrelevant"
+,,Is your tire pressure appropriate? Make an appointment for our free tire maintenance service: [Link],irrelevant,advertisement,,"advertisement, , irrelevant"
+,,"""Stuck on the road? Our mobile tire change team is just a phone call away! 📞 0850 XXX XXXX",irrelevant,advertisement,,"advertisement, , irrelevant"
+,ham,"Ta-Daaaaa! I am home babe, are you still up ?",normal,,,", ham, normal"
+,ham,Cool. So how come you havent been wined and dined before?,normal,,,", ham, normal"
+,ham,Just sleeping..and surfing,normal,,,", ham, normal"
+,ham,"Sorry, I'll call later",normal,,,", ham, normal"
+,ham,U calling me right? Call my hand phone...,normal,,,", ham, normal"
+,ham,Ok that's great thanx a lot.,normal,,,", ham, normal"
+,spam,Want to watch all paid channels for free? Click now for special IPTV membership: [Link].",indecent,illegal activities,,"illegal activities, spam, indecent"
+,spam,Watch new movies for free! Premium content for today only: [Link],indecent,illegal activities,,"illegal activities, spam, indecent"
+,spam,"Over 10,000 email and phone number data for sale! Click now to expand your marketing list: [Link].",indecent,illegal activities,,"illegal activities, spam, indecent"
+,spam,Credit card information and personal data at affordable prices! For details: [Link].,indecent,illegal activities,,"illegal activities, spam, indecent"
+,ham,Can you say what happen,,,,", ham, "
+,ham,You could have seen me..i did't recognise you Face.:),normal,,,", ham, normal"
+,ham,Well there's not a lot of things happening in Lindsay on New years *sighs* Some bars in Ptbo and the blue heron has something going,normal,,,", ham, normal"
+,ham,Keep my payasam there if rinu brings,normal,,,", ham, normal"
+,ham,I taught that Ranjith sir called me. So only i sms like that. Becaus hes verifying about project. Prabu told today so only pa dont mistake me..,normal,,,", ham, normal"
+,ham,ham,normal,,,", ham, normal"
+,ham,ham,normal,,,", ham, normal"
